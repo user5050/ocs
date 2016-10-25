@@ -1,0 +1,8 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\bin\Debug\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\bin\Debug\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\bin\Debug\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\bin\Debug\MySql.Data.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\bin\Debug\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\obj\Debug\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\obj\Debug\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\obj\Debug\Lpn.Service.Helper.csprojResolveAssemblyReference.cache

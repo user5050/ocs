@@ -1,0 +1,151 @@
+[Header]\r\n2016-07-13 16:01:13,144 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"b5fa91914a0f438e9ec4423d759a602e","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:01:12.2753564+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:03:06,587 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"c602273ced014ba7b6351990b9499136","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:03:06.1112532+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:03:19,880 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"b8615b79f217483f85b6dc3a1e162ead","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:03:19.555988+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:04:15,175 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"61b487e5017d4b528e46347828304e77","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:04:05.2917176+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:10:30,442 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"3dc56fc99d8041189dc7c862e49cada0","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:10:29.7686889+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:10:45,190 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"8e3ddb4c606f4a758cacb55951c5c1d2","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:10:44.5372167+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:10:57,666 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"bba3aace6b5b48c49069ccc3039382a9","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:10:57.3507671+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:11:11,468 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"d4e404557d1f4c28ad86e8b876d1c83f","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:11:11.0447388+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:11:32,555 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"a4bdd29ca76e424997f032e3ea58ab9e","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"云A12315\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:11:17.6246462+08:00","IsOneTime":true}
+返回{"State":-1199002,"Desc":"无入场信息","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:13:14,675 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"1c5f5d943dfe4aeab4b810fe40980ecb","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:13:13.6982202+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:13:16","AllTime":0,"MoneyTime":0,"PaymentMoney":0.0,"TotalMoney":0.0,"DeductionMoney":0.0,"CouponID":null,"Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:30:34,032 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"95f28a4cbf214995aaa3f0f42c77df8d","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:30:33.2578101+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:30:36","AllTime":0,"MoneyTime":0,"PaymentMoney":0.0,"TotalMoney":0.0,"DeductionMoney":0.0,"CouponID":null,"Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:33:45,364 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"2caaf69d00b84c99a157c434a401497a","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:33:44.8941898+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:33:47","AllTime":0,"MoneyTime":0,"PaymentMoney":0.0,"TotalMoney":0.0,"DeductionMoney":0.0,"CouponID":null,"Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:33:53,752 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"989348adf5c64c86a5cff36d2385dd98","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:33:53.3446639+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:33:56","AllTime":0,"MoneyTime":0,"PaymentMoney":0.0,"TotalMoney":0.0,"DeductionMoney":0.0,"CouponID":null,"Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:37:22,722 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"945d6a74d37a48ef959d6ae8bb0292b4","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:37:22.1268718+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:37:25","AllTime":3,"MoneyTime":3,"PaymentMoney":20.0,"TotalMoney":20.0,"DeductionMoney":0.0,"CouponID":"","Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-13 16:38:05,892 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：获取临停费用:请求:{"Id":"618e14a7e62c4b0e80e5e1a62f6d396f","Sender":"","Type":0,"Data":"{\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"ExitTime\":\"0001-01-01 00:00:00\"}","Time":"2016-07-13T16:38:05.3305107+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"ParkCode":"66666666","VehicleNo":"川A58585","EnterTime":"2016-07-15 15:34:46","ExitTime":"2016-07-13 16:38:08","AllTime":0,"MoneyTime":0,"PaymentMoney":0.0,"TotalMoney":0.0,"DeductionMoney":0.0,"CouponID":"","Deductions":[],"BookingCode":null}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n

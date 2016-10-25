@@ -1,0 +1,14 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Dal.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Dal.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Model.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\MySql.Data.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Service.Model.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\obj\Debug\Lpn.Service.Dal.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\obj\Debug\Lpn.Service.Dal.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\obj\Debug\Lpn.Service.Dal.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Library.Service.Park.Model.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\bin\Debug\Lpn.Library.Service.Park.Model.pdb

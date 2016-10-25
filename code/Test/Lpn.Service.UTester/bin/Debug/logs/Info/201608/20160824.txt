@@ -1,0 +1,27 @@
+[Header]\r\n2016-08-24 15:04:52,892 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.155-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carEnd?sign=e9a2c102eb7622ac69ea9388578903eb==>{"ParkCode":"66666666","VehicleNo":"川A11118","EndTime":"2016/8/24 15:04:36","StartTime":"2016/8/23 15:04:36","PaymentMoney":10.0,"TotalMoney":10.0,"DeductionMoney":0.0,"PayType":1,"Qn":""}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-24 15:05:06","info":[]}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-08-24 15:07:41,468 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.155-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆出场-未开启自动支付","Type":106,"Parkcode":"66666666","Content":"2016-08-24 15:07:17,川A11118驶出66666666,您可以开启自动支付服务,下次停车即可享受不停车直接出场的VIP服务,点击立刻开启自动支付服务！","Time":"2016-08-24 15:07:40","Viewed":"false","Url":"https://exmail.qq.com/cgi-bin/loginpage?autologin=n&errtype=1&clientuin=wenguo&t=dm_loginpage&d=ebopark.com&aliastype=other&param=wenguo@ebopark.com&sp=&tfcont=22%20serialization%3A%3Aarchive%205%200%200%2013%200%200%200%2010%20firstlogin%205%20false%206%20domain%2011%20ebopark.com%209%20aliastype%205%20other%2011%20errtemplate%2012%20dm_loginpage%209%20starttime%2013%201468381731051%201%20f%203%20biz%203%20uin%206%20wenguo%202%20ts%2010%201468381724%203%20chg%201%200%2010%20loginentry%201%203%208%20inputuin%2018%20wenguo%40ebopark.com%208%20authtype%201%208%209%20clientuin%206%20wenguo&r=d03d73270c3d30147e7712b72e053076","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+
+2016-08-24 15:08:11,640 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.155-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆出场-未开启自动支付","Type":106,"Parkcode":"66666666","Content":"2016-08-24 15:07:17,川A11118驶出66666666,您可以开启自动支付服务,下次停车即可享受不停车直接出场的VIP服务,点击立刻开启自动支付服务！","Time":"2016-08-24 15:08:11","Viewed":"false","Url":"https://exmail.qq.com/cgi-bin/loginpage?autologin=n&errtype=1&clientuin=wenguo&t=dm_loginpage&d=ebopark.com&aliastype=other&param=wenguo@ebopark.com&sp=&tfcont=22%20serialization%3A%3Aarchive%205%200%200%2013%200%200%200%2010%20firstlogin%205%20false%206%20domain%2011%20ebopark.com%209%20aliastype%205%20other%2011%20errtemplate%2012%20dm_loginpage%209%20starttime%2013%201468381731051%201%20f%203%20biz%203%20uin%206%20wenguo%202%20ts%2010%201468381724%203%20chg%201%200%2010%20loginentry%201%203%208%20inputuin%2018%20wenguo%40ebopark.com%208%20authtype%201%208%209%20clientuin%206%20wenguo&r=d03d73270c3d30147e7712b72e053076","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+

@@ -1,0 +1,20 @@
+[Header]\r\n2016-06-15 15:41:02,574 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：月租车授权验证:请求:{"Id":"713ac84d37a6440982219b1c32f1529e","Sender":null,"Type":26,"Data":"{\"Mobile\":\"yt\",\"CarNo\":\"川A11111\"}","Time":"2016-06-15T15:41:01.2072016+08:00","IsOneTime":false}
+返回{"State":-1199020,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-06-15 15:42:33,071 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：月租车授权验证:请求:{"Id":"924a512e84f04793b96cdda07d84d5a0","Sender":null,"Type":26,"Data":"{\"Mobile\":\"13096333333\",\"CarNo\":\"川A11111\"}","Time":"2016-06-15T15:42:32.7550083+08:00","IsOneTime":false}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+

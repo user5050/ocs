@@ -1,0 +1,4 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Sms\bin\Release\Lpn.Sms.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Sms\bin\Release\Lpn.Sms.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Sms\obj\Release\Lpn.Sms.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Sms\obj\Release\Lpn.Sms.pdb

@@ -1,0 +1,72 @@
+[Header]\r\n2016-05-05 15:25:47,735 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:25:47,815 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:25:47,842 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:25:47,847 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-05-05 15:27:54,187 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:27:54,214 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:27:54,218 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-05 15:27:54,221 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+

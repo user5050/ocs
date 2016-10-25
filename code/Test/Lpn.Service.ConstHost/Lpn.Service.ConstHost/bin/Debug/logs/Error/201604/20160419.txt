@@ -1,0 +1,434 @@
+[Header]\r\n2016-04-19 11:21:22,537 [18] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:21:22	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:21:45,237 [19] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:21:45	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:22:14,184 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:22:14	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:22:26,527 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:22:26	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:22:33,869 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:22:33	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:22:46,825 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:22:46	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:22:58,166 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:22:58	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+[Header]\r\n2016-04-19 11:26:58,667 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:26:58	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:27:25,998 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:27:25	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:27:34,710 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:27:34	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:28:31,004 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:28:31	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:28:56,537 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:28:56	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:24,550 [23] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:24	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:32,228 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:32	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:39,764 [23] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:39	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:45,995 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:45	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:52,271 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:52	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:29:58,399 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:29:58	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:04,690 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:04	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:10,903 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:10	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:17,216 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:17	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:23,493 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:23	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:29,799 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:29	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:36,068 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:36	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:30:47,599 [6] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:30:47	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:32:19,118 [18] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:32:19	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:32:54,117 [24] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:32:54	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:33:08,663 [22] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:33:08	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:33:24,099 [18] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:33:24	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:33:50,255 [22] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:33:50	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+
+2016-04-19 11:34:42,123 [18] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2016/4/19 11:34:42	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 233
+Source:
+Lpn.Payment
+
+请求:
+
+
+

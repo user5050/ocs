@@ -1,0 +1,16 @@
+[Header]\r\n2015-11-20 11:11:52,139 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]GetOpenidAndAccessTokenFromCode	时间:2015/11/20 11:11:52	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 168
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.GetOpenidAndAccessTokenFromCode(String code) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 399
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+

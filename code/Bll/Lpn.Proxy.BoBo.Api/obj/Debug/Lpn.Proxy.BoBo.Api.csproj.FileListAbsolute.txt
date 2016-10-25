@@ -1,0 +1,9 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\Lpn.Proxy.BoBo.Api.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\Lpn.Proxy.BoBo.Api.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\bin\Debug\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\obj\Debug\Lpn.Proxy.BoBo.Api.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\obj\Debug\Lpn.Proxy.BoBo.Api.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Proxy.BoBo.Api\obj\Debug\Lpn.Proxy.BoBo.Api.pdb

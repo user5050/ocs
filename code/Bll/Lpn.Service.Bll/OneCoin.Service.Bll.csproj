@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9191E981-F2E4-44D3-9F4F-7432E3A1F313}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OneCoin.Service.Bll</RootNamespace>
+    <AssemblyName>OneCoin.Service.Bll</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Online|AnyCPU'">
+    <OutputPath>bin\Online\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Lpn.Service.BKX.Logic">
+      <HintPath>..\..\..\depedence\Lpn.Service.BKX.Logic.dll</HintPath>
+    </Reference>
+    <Reference Include="Lpn.Service.HttpTwoWay.Client">
+      <HintPath>..\..\..\depedence\Lpn.Service.HttpTwoWay.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Lpn.Service.HttpTwoWay.Model">
+      <HintPath>..\..\..\depedence\Lpn.Service.HttpTwoWay.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\depedence\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\depedence\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\BllBase.cs" />
+    <Compile Include="Core\ContextMgr.cs" />
+    <Compile Include="Logic\Check\CheckBll.cs" />
+    <Compile Include="Logic\Coupon\CouponBll.cs" />
+    <Compile Include="Logic\Coupon\CouponInfomationBll.cs" />
+    <Compile Include="Logic\Coupon\Task\CouponTaskBll.cs" />
+    <Compile Include="Logic\FeedBack\FeedBackBll.cs" />
+    <Compile Include="Logic\Game\GameMemberBll.cs" />
+    <Compile Include="Logic\Game\Task\GameTaskBll.cs" />
+    <Compile Include="Logic\Msg\HomeNewsBll.cs" />
+    <Compile Include="Logic\Msg\MsgInfoBll.cs" />
+    <Compile Include="Logic\Orders\OrdersBll.cs" />
+    <Compile Include="Logic\Orders\OrdersCanceledBll.cs" />
+    <Compile Include="Logic\Orders\OrdersPreBll.cs" />
+    <Compile Include="Logic\Orders\OrdersSuccesBll.cs" />
+    <Compile Include="Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs" />
+    <Compile Include="Logic\Orders\Task\OrderProccess\Instance\BaseProccess.cs" />
+    <Compile Include="Logic\Orders\Task\OrderProccess\Instance\CancelOrderProccess.cs" />
+    <Compile Include="Logic\Orders\Task\OrderProccess\OrderProccessBll.cs" />
+    <Compile Include="Logic\Orders\Task\OrderProccess\IOrderProccess.cs" />
+    <Compile Include="Logic\Orders\Task\OrderProccess\Instance\ProductOrderProccess.cs" />
+    <Compile Include="Logic\Orders\Task\OrdersTaskBll.cs" />
+    <Compile Include="Logic\Partnerpay\PartnerpayControlBll.cs" />
+    <Compile Include="Logic\Partnerpay\PartnerpayInfoBll.cs" />
+    <Compile Include="Logic\Partnerpay\PartnerpayPlatformconfigBll.cs" />
+    <Compile Include="Logic\Partnerpay\PayConfigBll.cs" />
+    <Compile Include="Logic\Product\ProductBll.cs" />
+    <Compile Include="Logic\Product\ProductGameWinnerBll.cs" />
+    <Compile Include="Logic\Sms\SmsBll.cs" />
+    <Compile Include="Logic\SysUser\UserBll.cs" />
+    <Compile Include="Logic\SysUser\UserContractBll.cs" />
+    <Compile Include="Logic\Sys\SysBannerBll.cs" />
+    <Compile Include="Logic\Sys\SysVersionBll.cs" />
+    <Compile Include="Notification\NotificationHelper.cs" />
+    <Compile Include="Notification\NotificationSend.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\Dal\Lpn.Service.Dal\OneCoin.Service.Dal.csproj">
+      <Project>{a91f9293-212d-4341-ae4e-eda3ed98f505}</Project>
+      <Name>OneCoin.Service.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Helper\Lpn.Service.Helper\OneCoin.Service.Helper.csproj">
+      <Project>{cab0c586-476e-4e9f-a185-1dc7dfcd2bb7}</Project>
+      <Name>OneCoin.Service.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Helper\StockTool\StockTool\StockTool.csproj">
+      <Project>{3b38a275-3b44-4f47-907c-0d5c5a538bfd}</Project>
+      <Name>StockTool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Model\Lpn.Service.Model\OneCoin.Service.Model.csproj">
+      <Project>{af1a7257-4213-4b3b-8c43-c4b45ff9d76b}</Project>
+      <Name>OneCoin.Service.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lpn.Payment\OneCoin.Payment.csproj">
+      <Project>{41e539af-12bb-42fc-951e-aa3571369d54}</Project>
+      <Name>OneCoin.Payment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lpn.Service.Cache\OneCoin..Service.Cache.csproj">
+      <Project>{30dde1c2-6799-42d9-a1f9-bfbf16f99a3e}</Project>
+      <Name>OneCoin..Service.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lpn.Sms\OneCoin.Sms.csproj">
+      <Project>{a6346a8d-3123-4c22-b28d-51057b29270a}</Project>
+      <Name>OneCoin.Sms</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+D:\Project\onecoin\code\Bll\Lpn.Sms\bin\Debug\OneCoin.Sms.dll
+D:\Project\onecoin\code\Bll\Lpn.Sms\bin\Debug\OneCoin.Sms.pdb
+D:\Project\onecoin\code\Bll\Lpn.Sms\obj\Debug\OneCoin.Sms.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Bll\Lpn.Sms\obj\Debug\OneCoin.Sms.dll
+D:\Project\onecoin\code\Bll\Lpn.Sms\obj\Debug\OneCoin.Sms.pdb

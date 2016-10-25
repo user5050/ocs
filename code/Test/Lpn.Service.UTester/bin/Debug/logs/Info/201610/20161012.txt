@@ -1,0 +1,28 @@
+[Header]\r\n2016-10-12 14:27:00,954 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getSpotList?&username=E%E6%B3%8A&time=147625362&key=51115dd6ab1cd92fd22d19bc3343a71f==>=>{"errorNo":"-1","msg":"本连接已失效"}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-10-12 14:27:17,925 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getSpotList?&username=E%E6%B3%8A&time=147625363&key=5bd16cd63cd9199d172d4eaebade038e==>=>{"errorNo":"-1","msg":"本连接已失效"}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-10-12 14:27:42,522 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getSpotList?&username=E%E6%B3%8A&time=147625366&key=ac95bc75dafeae3424c197abff9a60ed==>=>{"errorNo":"-1","msg":"本连接已失效"}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n

@@ -1,0 +1,75 @@
+[Header]\r\n[Footer]\r\n[Header]\r\n2016-08-24 15:07:40,913 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:70] - 
+标题:[192.168.0.155-test-]IOSNotificationSave 引发异常:{0}	时间:2016/8/24 15:07:40	代理:
+内容：Message:
+Data too long for column 'Url' at row 1
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(String connectionString, String cmdText, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 44
+   在 Lpn.Service.Dal.Dal.Notification.NotificationPersonalDal.Insert(NotificationPersonalDb notificationpersonal) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Notification\NotificationPersonalDal.cs:行号 69
+   在 Lpn.Service.Bll.Notification.NotificationHelper.IosNotificationSave(NotificationPersonalDb param) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationHelper.cs:行号 1044
+Source:
+MySql.Data
+
+请求:http://localhost
+
+
+
+
+
+2016-08-24 15:08:11,599 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:70] - 
+标题:[192.168.0.155-test-]IOSNotificationSave 引发异常:{0}	时间:2016/8/24 15:08:11	代理:
+内容：Message:
+Data too long for column 'Url' at row 1
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(String connectionString, String cmdText, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 44
+   在 Lpn.Service.Dal.Dal.Notification.NotificationPersonalDal.Insert(NotificationPersonalDb notificationpersonal) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Notification\NotificationPersonalDal.cs:行号 69
+   在 Lpn.Service.Bll.Notification.NotificationHelper.IosNotificationSave(NotificationPersonalDb param) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationHelper.cs:行号 1044
+Source:
+MySql.Data
+
+请求:http://localhost
+
+
+
+
+
+2016-08-24 15:08:25,760 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:70] - 
+标题:[192.168.0.155-test-]IOSNotificationSave 引发异常:{0}	时间:2016/8/24 15:08:25	代理:
+内容：Message:
+Data too long for column 'Url' at row 1
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(String connectionString, String cmdText, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 44
+   在 Lpn.Service.Dal.Dal.Notification.NotificationPersonalDal.Insert(NotificationPersonalDb notificationpersonal) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Notification\NotificationPersonalDal.cs:行号 69
+   在 Lpn.Service.Bll.Notification.NotificationHelper.IosNotificationSave(NotificationPersonalDb param) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationHelper.cs:行号 1044
+Source:
+MySql.Data
+
+请求:http://localhost
+
+
+
+
+

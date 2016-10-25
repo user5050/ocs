@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>12/02/2015 08:54:20</publishTime>
+    </File>
+    <File Include="bin/LitJson.dll">
+      <publishTime>10/10/2015 15:27:46</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>05/11/2015 17:19:54</publishTime>
+    </File>
+    <File Include="bin/Lpn.Library.Service.Park.Model.dll">
+      <publishTime>01/22/2016 11:44:50</publishTime>
+    </File>
+    <File Include="bin/Lpn.Library.Service.Park.Model.pdb">
+      <publishTime>01/22/2016 11:48:18</publishTime>
+    </File>
+    <File Include="bin/Lpn.Payment.dll">
+      <publishTime>01/22/2016 11:44:52</publishTime>
+    </File>
+    <File Include="bin/Lpn.Payment.pdb">
+      <publishTime>01/22/2016 11:48:19</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Api.dll">
+      <publishTime>01/22/2016 11:49:58</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Api.pdb">
+      <publishTime>01/22/2016 11:49:42</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Bll.dll">
+      <publishTime>01/22/2016 11:44:53</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Bll.pdb">
+      <publishTime>01/22/2016 11:48:20</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Cache.dll">
+      <publishTime>01/22/2016 11:44:51</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Cache.pdb">
+      <publishTime>01/22/2016 11:48:19</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Dal.dll">
+      <publishTime>01/22/2016 11:44:52</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Dal.pdb">
+      <publishTime>01/22/2016 11:48:19</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Helper.dll">
+      <publishTime>01/22/2016 11:44:50</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Helper.pdb">
+      <publishTime>01/22/2016 11:48:18</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.HttpTwoWay.Client.dll">
+      <publishTime>12/21/2015 14:38:15</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.HttpTwoWay.Model.dll">
+      <publishTime>12/21/2015 14:38:15</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Model.dll">
+      <publishTime>01/22/2016 11:44:50</publishTime>
+    </File>
+    <File Include="bin/Lpn.Service.Model.pdb">
+      <publishTime>01/22/2016 11:48:18</publishTime>
+    </File>
+    <File Include="bin/Lpn.Sms.dll">
+      <publishTime>01/22/2016 11:44:50</publishTime>
+    </File>
+    <File Include="bin/Lpn.Sms.pdb">
+      <publishTime>01/22/2016 11:48:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/08/2012 09:20:10</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>05/11/2015 17:19:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/11/2015 17:19:54</publishTime>
+    </File>
+    <File Include="bin/Qiniu.4.0.dll">
+      <publishTime>05/13/2015 15:27:25</publishTime>
+    </File>
+    <File Include="bin/QiNiuTool.dll">
+      <publishTime>01/22/2016 11:41:02</publishTime>
+    </File>
+    <File Include="bin/QiNiuTool.pdb">
+      <publishTime>01/20/2016 16:56:15</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>10/08/2015 15:01:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/10/2012 21:53:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/10/2012 21:53:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/10/2012 21:53:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/10/2012 21:53:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>07/10/2012 21:53:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/20/2015 17:12:09</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/20/2015 17:15:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/22/2016 11:49:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

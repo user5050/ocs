@@ -1,0 +1,9 @@
+[Header]\r\n2016-10-20 11:37:23,409 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476934642&sid=12&key=aa007b02a4799fe8fea4bb1f8ec9bd20==>=>[{"tid":"1554","tname":"石象湖活动票（10.21-10.23）","chengben":"24","menshijia":"80","needidcard":"0","dianzipiao":"0","scenicName":"石象湖","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+

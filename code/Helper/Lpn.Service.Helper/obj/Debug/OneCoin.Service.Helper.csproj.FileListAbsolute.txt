@@ -1,0 +1,8 @@
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\bin\Debug\OneCoin.Service.Helper.dll
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\bin\Debug\OneCoin.Service.Helper.pdb
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\bin\Debug\log4net.dll
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\bin\Debug\MySql.Data.dll
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\bin\Debug\Newtonsoft.Json.dll
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\obj\Debug\OneCoin.Service.Helper.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\obj\Debug\OneCoin.Service.Helper.dll
+D:\Project\onecoin\code\Helper\Lpn.Service.Helper\obj\Debug\OneCoin.Service.Helper.pdb

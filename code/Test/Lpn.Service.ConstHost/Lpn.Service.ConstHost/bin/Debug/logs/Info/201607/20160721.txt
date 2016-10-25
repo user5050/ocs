@@ -1,0 +1,7 @@
+[Header]\r\n2016-07-21 17:44:19,549 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.143-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carStart?sign=6fe39eda05a83cf248731044bd07141d==>{"ParkCode":"66666666","VehicleNo":"川A58586 ","StartTime":"2016/7/21 17:44:10","ImageID":0}=>{"code":5001,"message":"\u670d\u52a1\u5668\u6570\u636e\u5f02\u5e38","detail":{"exCode":8,"url":"\/parkmall\/carStart","errfile":"\/u01\/server\/apps\/api_new\/app\/models\/park\/ParkOrder.php","errline":212,"trace":"Undefined index: card_level"}}
+请求:
+
+
+

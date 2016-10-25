@@ -1,0 +1,318 @@
+[Header]\r\n2015-12-03 14:30:29,684 [14] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：快速出场数据同步工作监控任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2015/12/3 14:30:28
+
+请求:
+
+
+
+2015-12-03 14:30:29,684 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2015/12/3 14:30:28
+
+请求:
+
+
+
+2015-12-03 14:30:29,746 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background, WaitSleepJoin
+LastTime:2015/12/3 14:30:28
+
+请求:
+
+
+
+2015-12-03 14:30:47,318 [17] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2015-12-03 14:30:47,321 [17] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2015-12-03 14:30:47,322 [17] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2015-12-03 14:30:47,323 [17] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+2015-12-03 14:31:06,856 [20] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201511271125046648457725_000000236
+失败
+
+请求:
+
+
+
+[Header]\r\n2015-12-03 14:37:30,098 [15] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：快速出场数据同步工作监控任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2015/12/3 14:37:27
+
+请求:
+
+
+
+2015-12-03 14:37:30,099 [13] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2015/12/3 14:37:27
+
+请求:
+
+
+
+2015-12-03 14:37:30,128 [13] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background, WaitSleepJoin
+LastTime:2015/12/3 14:37:27
+
+请求:
+
+
+
+2015-12-03 14:37:32,223 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2015-12-03 14:37:32,226 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2015-12-03 14:37:32,228 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2015-12-03 14:37:32,229 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+2015-12-03 14:37:38,386 [7] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201511271125046648457725_000000236
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:38:05,987 [20] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031437553075740674_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:38:06,009 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438208944248450_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:38:06,082 [21] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438344828756412_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:38:14,756 [7] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201511271125046648457725_000000236
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:15,956 [21] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：{"Id":"0c9eae2ccdda4fbcb61232e7a2e56cca","Sender":"55555555","Type":1,"Data":"{\"OrderNo\":\"201512031437553075740674_000000239\",\"ParkCode\":\"55555555\",\"VehicleNo\":\"川AGH004\",\"EnterTime\":\"2015-12-03 01:10:02\",\"ExitTime\":\"2015-12-03 14:52:50\",\"PaymentMoney\":14.0,\"TotalMoney\":14.0,\"DeductionMoney\":0.0,\"Mark\":\"\",\"CouponName\":\"\",\"CouponMoney\":0.0}","Time":"2015-12-03T14:38:11.4385525+08:00","IsOneTime":true}-->{"State":1,"Desc":"定单已过期，不能缴费","Result":null}
+请求:
+
+
+
+2015-12-03 14:39:23,296 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438208944248450_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:23,299 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438344828756412_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:23,706 [21] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031437553075740674_000000239
+处理成功,发送对应的通知
+同步信息到停车场
+成功
+
+请求:
+
+
+
+2015-12-03 14:39:33,376 [7] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201511271125046648457725_000000236
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:33,685 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031437553075740674_000000239
+处理成功,发送对应的通知
+同步信息到停车场
+成功
+
+请求:
+
+
+
+2015-12-03 14:39:48,224 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438344828756412_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:48,224 [21] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438208944248450_000000239
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:39:57,692 [7] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201511271125046648457725_000000236
+支付成功后待处理异常:未将对象引用设置到对象的实例。   在 Lpn.Service.Bll.HttpTw.HttpTwMgr.CheckOut(CheckOut checkOut) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\HttpTw\HttpTwMgr.cs:行号 160
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess.Do(String orderNo) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs:行号 51
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 55
+请求:
+
+
+
+2015-12-03 14:40:04,759 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：{"Id":"87539c4c096d41879cf0de91e150dcbd","Sender":"55555555","Type":1,"Data":"{\"OrderNo\":\"201512031438208944248450_000000239\",\"ParkCode\":\"55555555\",\"VehicleNo\":\"川AGH004\",\"EnterTime\":\"2015-12-03 01:10:02\",\"ExitTime\":\"2015-12-03 14:53:07\",\"PaymentMoney\":14.0,\"TotalMoney\":14.0,\"DeductionMoney\":0.0,\"Mark\":\"\",\"CouponName\":\"\",\"CouponMoney\":0.0}","Time":"2015-12-03T14:39:53.4335308+08:00","IsOneTime":true}-->{"State":1,"Desc":"定单已过期，不能缴费","Result":null}
+请求:
+
+
+
+2015-12-03 14:40:08,738 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：{"Id":"31de56516bd14fec90e0ad06278cec0a","Sender":"55555555","Type":1,"Data":"{\"OrderNo\":\"201512031438344828756412_000000239\",\"ParkCode\":\"55555555\",\"VehicleNo\":\"川AGH004\",\"EnterTime\":\"2015-12-03 01:10:02\",\"ExitTime\":\"2015-12-03 14:53:31\",\"PaymentMoney\":14.0,\"TotalMoney\":14.0,\"DeductionMoney\":0.0,\"Mark\":\"\",\"CouponName\":\"\",\"CouponMoney\":0.0}","Time":"2015-12-03T14:39:57.6626873+08:00","IsOneTime":true}-->{"State":1,"Desc":"定单已过期，不能缴费","Result":null}
+请求:
+
+
+
+2015-12-03 14:40:09,099 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438208944248450_000000239
+处理成功,发送对应的通知
+同步信息到停车场
+成功
+
+请求:
+
+
+
+2015-12-03 14:40:09,125 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：开始处理订单：201512031438344828756412_000000239
+处理成功,发送对应的通知
+同步信息到停车场
+成功
+
+请求:
+
+
+

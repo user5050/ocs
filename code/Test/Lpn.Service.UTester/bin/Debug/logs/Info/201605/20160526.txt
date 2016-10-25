@@ -1,0 +1,331 @@
+[Header]\r\n2016-05-26 10:37:11,700 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:37:11,787 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:37:11,791 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:37:11,794 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:37:11,797 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:37:13,795 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay OrderQuery response : <?xml version="1.0" encoding="utf-8"?><result><RETURNCODE>1</RETURNCODE><COMMCODE>02510202060110703</COMMCODE><ORDERSEQ>160525175149019541800000000</ORDERSEQ><ORDERREQTRANSEQ>160525175149019541800000000</ORDERREQTRANSEQ><TRANSTATUS></TRANSTATUS><ORDERAMOUNT></ORDERAMOUNT><SIGN>320133D330E3F80ADA1E6B33244C35B4</SIGN><OURTRANSNO></OURTRANSNO></result>
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-05-26 10:40:15,508 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:40:15,562 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:40:15,584 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:40:15,587 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:40:15,591 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:40:16,970 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay OrderQuery response : <?xml version="1.0" encoding="utf-8"?><result><RETURNCODE>1</RETURNCODE><COMMCODE>02510202060110703</COMMCODE><ORDERSEQ>160526103858160703700000000</ORDERSEQ><ORDERREQTRANSEQ>160526103858160703700000000</ORDERREQTRANSEQ><TRANSTATUS></TRANSTATUS><ORDERAMOUNT></ORDERAMOUNT><SIGN>5EB6AF404F73B0109A5710EF24D360C0</SIGN><OURTRANSNO></OURTRANSNO></result>
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-05-26 10:44:12,280 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:12,311 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:12,315 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:12,319 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:12,323 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:23,657 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund request : oldOrderReqNo=160526103858160703700000000&oldOrderNo=160526103858160703700000000&mac=7466629E8A852F20D72B82E7DE17A0C0&merchantId=02510202060110703&transAmt=1000&channel=01&refundReqNo=1464230654211&refundReqDate=20160526&merchantPwd=989942&subMerchantId=&ledgerDetail=
+请求:http://localhost
+
+
+
+
+
+2016-05-26 10:44:36,700 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund response : {"success":false,"result":null,"errorCode":"BE110078","errorMsg":"原交易不存在或超过退款限制时间。"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-05-26 11:33:16,571 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:33:16,599 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:33:16,603 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:33:16,607 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:33:16,611 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:33:17,543 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay OrderQuery response : <?xml version="1.0" encoding="utf-8"?><result><RETURNCODE>0</RETURNCODE><COMMCODE>02510202060110703</COMMCODE><ORDERSEQ>160526112646078603800000000</ORDERSEQ><ORDERREQTRANSEQ>160526112646078603800000000</ORDERREQTRANSEQ><TRANSTATUS>B</TRANSTATUS><ORDERAMOUNT>1</ORDERAMOUNT><SIGN>96ABCEF9ED622080F72771F0F6B9264A</SIGN><OURTRANSNO>2016052600000546894644</OURTRANSNO></result>
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:34:14,969 [8] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：支付成功后待处理异常:指定的参数已超出有效值的范围。   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 65
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-05-26 11:35:58,099 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:35:58,128 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:35:58,133 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:35:58,136 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:35:58,141 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:36:02,413 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund request : oldOrderReqNo=160526112646078603800000000&oldOrderNo=160526112646078603800000000&mac=428F797D02023735B29049CB07A51983&merchantId=02510202060110703&transAmt=1000&channel=01&refundReqNo=1464233762406&refundReqDate=20160526&merchantPwd=989942&subMerchantId=&ledgerDetail=
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:36:03,653 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund response : {"success":false,"result":null,"errorCode":"BE301001","errorMsg":"订单金额出现异常，交易失败"}
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:37:09,361 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund request : oldOrderReqNo=160526112646078603800000000&oldOrderNo=160526112646078603800000000&mac=A41BB74FA496CBF54E20042913B870C7&merchantId=02510202060110703&transAmt=1&channel=01&refundReqNo=1464233787316&refundReqDate=20160526&merchantPwd=989942&subMerchantId=&ledgerDetail=
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:37:14,891 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund response : {"success":true,"result":null,"errorCode":null,"errorMsg":null}
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:37:47,228 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund request : oldOrderReqNo=160526112646078603800000000&oldOrderNo=160526112646078603800000000&mac=950E229563891887862CAB3BB2DB0A99&merchantId=02510202060110703&transAmt=1&channel=01&refundReqNo=1464233859770&refundReqDate=20160526&merchantPwd=989942&subMerchantId=&ledgerDetail=
+请求:http://localhost
+
+
+
+
+
+2016-05-26 11:37:47,364 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：BestPay Refund response : {"success":false,"result":null,"errorCode":"BE301010","errorMsg":"退款订单受理中，退款失败"}
+请求:http://localhost
+
+
+
+
+

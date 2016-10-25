@@ -1,0 +1,504 @@
+[Header]\r\n2016-07-15 15:16:10,690 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:10,730 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:10,734 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:10,738 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:10,743 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:10,748 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:16:44,789 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:16:24","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【[活动名称]】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"##if washinshop=washinshop then 用户消费时，请务必核对用户的交易记录并拍照 else 请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)##"}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-15 15:20:26,685 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:26,725 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:26,730 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:26,735 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:26,740 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:26,744 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:20:27,262 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:20:26","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【[活动名称]】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"##if washinshop=washinshop then 用户消费时，请务必核对用户的交易记录并拍照 else 请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)end##"}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-15 15:21:24,040 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:21:24,074 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:21:24,080 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:21:24,085 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:21:24,090 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:21:24,096 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-15 15:22:45,278 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,313 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,318 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,323 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,328 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,332 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:22:45,651 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:22:45","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【[活动名称]】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)"}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-15 15:24:36,864 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:36,895 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:36,900 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:36,906 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:36,911 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:36,917 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:24:37,277 [5] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:24:37","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【到店洗车】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)"}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-15 15:25:33,022 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,048 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,054 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,059 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,063 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,069 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:25:33,649 [16] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:25:33","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【到店洗车】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)"}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-15 15:27:41,851 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:27:41,883 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:27:41,888 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:27:41,892 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:27:41,898 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:27:41,903 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:28:28,942 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:28:04","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【到店洗车】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"请及时与客户联系（手机号：13096306603；姓名：；备注信息：；停车场;。)"}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-15 15:43:08,267 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,297 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,302 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,307 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,311 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,318 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-07-15 15:43:08,671 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"oEBYnw9YBM_YgrsMAs01K_SR-Fn4","Payload":{"Title":null,"Type":-1,"Parkcode":"","Content":null,"Time":"2016-07-15 15:43:08","Viewed":"false","Url":null,"SN":"0"},"Extra":{"Type":6,"Url":"","First":"您有新【到店洗车】的订单，请知晓","Keyword1":"川A10010","Keyword2":"25.00","Keyword3":"余额支付","Keyword4":"160715143021697725400006200","Keyword5":"2016-07-15","Remark":"用户消费时，请务必核对用户的交易记录并拍照"}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-15 17:23:12,247 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:88] - 
+标题:[192.168.0.114-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net///parkmall/carList?sign=sign==>{"ParkCode":"66666666","EventTime":"2016-07-15 17:23:10"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-15 17:23:17","result":[{"userid":253,"carno":"HLJ36B20W16","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 10:50:27","type":0},{"userid":212,"carno":"HLJ44B9VS75","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 16:40:14","type":0},{"userid":212,"carno":"HLJ44B55A12","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 16:42:44","type":0},{"userid":212,"carno":"HLJ44B88888","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 16:42:55","type":0},{"userid":212,"carno":"HLJ44B1234B","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 16:43:18","type":0},{"userid":212,"carno":"HLJ44B345FG","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 16:47:16","type":0},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-15 17:23:17","type":1}]}
+请求:http://localhost
+
+
+
+
+

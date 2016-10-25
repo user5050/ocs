@@ -1,0 +1,565 @@
+[Header]\r\n2016-04-19 11:19:25,865 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:19:24
+
+请求:
+
+
+
+2016-04-19 11:19:25,952 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background, WaitSleepJoin
+LastTime:2016/4/19 11:19:24
+
+请求:
+
+
+
+2016-04-19 11:20:02,366 [19] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2016-04-19 11:20:02,371 [19] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2016-04-19 11:20:02,376 [19] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2016-04-19 11:20:02,380 [19] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+[Header]\r\n2016-04-19 11:21:08,788 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:21:08
+
+请求:
+
+
+
+2016-04-19 11:21:08,810 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:21:08
+
+请求:
+
+
+
+2016-04-19 11:21:16,230 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2016-04-19 11:21:16,236 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2016-04-19 11:21:16,241 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2016-04-19 11:21:16,244 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+2016-04-19 11:21:30,372 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:21:45,246 [19] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:22:14,193 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:22:26,535 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:22:33,882 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:22:46,836 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:22:58,171 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+[Header]\r\n2016-04-19 11:26:29,493 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:26:28
+
+请求:
+
+
+
+2016-04-19 11:26:29,523 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background, WaitSleepJoin
+LastTime:2016/4/19 11:26:28
+
+请求:
+
+
+
+2016-04-19 11:26:58,615 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2016-04-19 11:26:58,620 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2016-04-19 11:26:58,624 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2016-04-19 11:26:58,628 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+2016-04-19 11:26:58,675 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:27:26,007 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:27:34,729 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:28:33,667 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:28:56,543 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:24,557 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:32,234 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:39,775 [23] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:46,005 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:52,285 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:29:58,410 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:04,703 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:10,930 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:17,223 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:23,503 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:29,830 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:36,078 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:30:47,609 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:32:13,560 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:30:48
+
+请求:
+
+
+
+2016-04-19 11:32:13,586 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:32:13
+
+请求:
+
+
+
+2016-04-19 11:32:22,176 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:32:54,123 [24] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:33:08,668 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:33:24,105 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:33:50,275 [22] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+2016-04-19 11:34:42,128 [18] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：151224163717407501100003621
+失败
+
+请求:
+
+
+
+[Header]\r\n2016-04-19 11:37:30,740 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:37:30
+
+请求:
+
+
+
+2016-04-19 11:37:30,769 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background, WaitSleepJoin
+LastTime:2016/4/19 11:37:30
+
+请求:
+
+
+
+2016-04-19 11:37:40,482 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:
+
+
+
+2016-04-19 11:37:40,489 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:
+
+
+
+2016-04-19 11:37:40,493 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:
+
+
+
+2016-04-19 11:37:40,497 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:
+
+
+
+2016-04-19 11:38:17,984 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"18782966016","IOSToken":"","OpenID":"","Payload":{"Title":"退费成功","Type":203,"Parkcode":"","Content":"您已成功收到系统退费150.00元，点击查看详细！","Time":"2016-04-19 11:38:17","Viewed":"false","Url":"","SN":"0"},"Extra":null}
+请求:
+
+
+
+2016-04-19 11:38:20,539 [6] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：开始处理订单：160419105511380381600002400
+处理成功,发送对应的通知
+同步信息到停车场
+成功
+
+请求:
+
+
+
+[Header]\r\n2016-04-19 11:50:59,818 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行预支付订单清理工作
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:50:59
+
+请求:
+
+
+
+2016-04-19 11:50:59,849 [12] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:84] - 
+标题:[]无	代理:
+内容：执行回调成功的订单任务
+IsAlive:True
+IsBackground:True
+IsThreadPoolThread:False
+ThreadState:Background
+LastTime:2016/4/19 11:50:59
+
+请求:
+
+
+

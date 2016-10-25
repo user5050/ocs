@@ -1,0 +1,52 @@
+[Header]\r\n2015-12-18 09:41:24,489 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.CancelOrderQuery(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/12/18 9:41:24	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 170
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.MakeSign(PayConfig payConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 220
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrderQuery(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 308
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-18 09:43:00,942 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.CancelOrderQuery(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/12/18 9:43:00	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 170
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.MakeSign(PayConfig payConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 220
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrderQuery(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 308
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2015-12-18 09:43:56,025 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.CancelOrderQuery(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/12/18 9:43:56	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 170
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.MakeSign(PayConfig payConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 220
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrderQuery(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 308
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n

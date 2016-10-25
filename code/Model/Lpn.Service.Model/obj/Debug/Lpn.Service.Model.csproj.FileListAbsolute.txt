@@ -1,0 +1,11 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Service.Model.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Service.Model.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\obj\Debug\Lpn.Service.Model.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\obj\Debug\Lpn.Service.Model.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Library.Service.Park.Model.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Library.Service.Park.Model.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\obj\Debug\Lpn.Service.Model.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Model\Lpn.Service.Model\bin\Debug\Lpn.Service.Helper.pdb

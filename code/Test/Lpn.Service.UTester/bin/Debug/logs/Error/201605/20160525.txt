@@ -1,0 +1,73 @@
+[Header]\r\n2016-05-25 17:57:53,688 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool PayBase.Query(PurchaseReq req, ref PurchaseRes res)	时间:2016/5/25 17:57:53	代理:
+内容：Message:
+XML 文档中有错误。
+StackTrace:
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   在 Lpn.Service.Helper.Serialization.SimpleSerialization.XmlToObject[T](String xml) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Serialization\SimpleSerialization.cs:行号 133
+   在 Lpn.Payment.Plugins.BestPay.BestPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\BestPay\BestPayBll.cs:行号 45
+Source:
+System.Xml
+Message:
+不应有 <result xmlns=''>。
+StackTrace:
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResPayQueryDto.Read3_ResPayQueryDto()
+Source:
+Microsoft.GeneratedCode
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-05-25 18:02:51,590 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool PayBase.Query(PurchaseReq req, ref PurchaseRes res)	时间:2016/5/25 18:02:51	代理:
+内容：Message:
+XML 文档中有错误。
+StackTrace:
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   在 Lpn.Service.Helper.Serialization.SimpleSerialization.XmlToObject[T](String xml) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Serialization\SimpleSerialization.cs:行号 133
+   在 Lpn.Payment.Plugins.BestPay.BestPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\BestPay\BestPayBll.cs:行号 45
+Source:
+System.Xml
+Message:
+不应有 <result xmlns=''>。
+StackTrace:
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResPayQueryDtoResult.Read4_ResPayQueryDtoResult()
+Source:
+Microsoft.GeneratedCode
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-05-25 18:11:26,578 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]bool PayBase.Query(PurchaseReq req, ref PurchaseRes res)	时间:2016/5/25 18:11:26	代理:
+内容：Message:
+XML 文档中有错误。
+StackTrace:
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader)
+   在 Lpn.Service.Helper.Serialization.SimpleSerialization.XmlToObject[T](String xml) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Serialization\SimpleSerialization.cs:行号 133
+   在 Lpn.Payment.Plugins.BestPay.BestPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\BestPay\BestPayBll.cs:行号 45
+Source:
+System.Xml
+Message:
+不应有 <result xmlns=''>。
+StackTrace:
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderResPayQueryDto.Read3_ResPayQueryDto()
+Source:
+Microsoft.GeneratedCode
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n

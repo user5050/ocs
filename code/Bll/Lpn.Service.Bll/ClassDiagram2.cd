@@ -1,0 +1,747 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lpn.Service.Bll.BoKeXia.LimitMgr" Collapsed="true">
+    <Position X="148.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAgA=</HashCode>
+      <FileName>BoKeXia\LimitMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Core.BllBase" Collapsed="true">
+    <Position X="75.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Core\BllBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Core.ContextMgr" Collapsed="true">
+    <Position X="150.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ContextMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.HttpTw.HttpTwMgr" Collapsed="true">
+    <Position X="146.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEEAAAEACGQABAgoABBgjAChAAAiEHBAYgAQAAAAAIA=</HashCode>
+      <FileName>HttpTw\HttpTwMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Activity.ActivityBll" Collapsed="true">
+    <Position X="72" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAACAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Activity\ActivityBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Activity.ActivityDn97Bll" Collapsed="true">
+    <Position X="74.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIKEAAAAEAAAAAAAAAAAAABAAAAAAAABAAAAEAA=</HashCode>
+      <FileName>Logic\Activity\ActivityDn97Bll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Antithief.AntithiefInfoBll" Collapsed="true">
+    <Position X="79" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAgAAAAEAAAAAAAABACAgAAAA=</HashCode>
+      <FileName>Logic\Antithief\AntithiefInfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Antithief.AntithiefInfoHistoryBll" Collapsed="true">
+    <Position X="76" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Logic\Antithief\AntithiefInfoHistoryBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.App.AppVersionBll" Collapsed="true">
+    <Position X="74" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\App\AppVersionBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.AppConfig.AppconfigInfoBll" Collapsed="true">
+    <Position X="71.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAIAAAAAAAAAAAIgAAAAAAAAAAAAAAAAgAABA=</HashCode>
+      <FileName>Logic\AppConfig\AppconfigInfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Auto.AutoPaymentBll" Collapsed="true">
+    <Position X="73.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEIAAAAAMgAAAAAICAAAAAAAEiQQAAAAIAAQIAAA=</HashCode>
+      <FileName>Logic\Auto\AutoPaymentBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Balances.BalanceBll" Collapsed="true">
+    <Position X="70" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Balances\BalanceBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Car.CarOwnerAppBll" Collapsed="true">
+    <Position X="152" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Car\CarOwnerAppBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Car.CarOwnerBll" Collapsed="true">
+    <Position X="153.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAFgBAAAAQAQAAggAAAAAAABAAAAAIEQAAAAQAAA=</HashCode>
+      <FileName>Logic\Car\CarOwnerBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Car.CarParkStatuBll" Collapsed="true">
+    <Position X="155.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Car\CarParkStatuBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Car.CarParkStatusBll" Collapsed="true">
+    <Position X="146.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Car\CarParkStatusBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.CarMent.CarMentBll" Collapsed="true">
+    <Position X="150.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACIAAAAAAAwEgAQAAAAAAAAAABAAAAAAAAQEA=</HashCode>
+      <FileName>Logic\CarMent\CarMentBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Channel.ChannelStatusBll" Collapsed="true">
+    <Position X="81.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Channel\ChannelStatusBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Check.CheckBll" Collapsed="true">
+    <Position X="148.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Check\CheckBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponActivityTempBll" Collapsed="true">
+    <Position X="76.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Coupon\CouponActivityTempBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponBll" Collapsed="true">
+    <Position X="74" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAoBAAgAAAAAMIAEBgAAARVSAgAAEAAAAECAAAAM=</HashCode>
+      <FileName>Logic\Coupon\CouponBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponGroupBll" Collapsed="true">
+    <Position X="76" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAQIAAAAQAAABAAgAAAAAAABAAgAAQEAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Coupon\CouponGroupBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponInfomationBll" Collapsed="true">
+    <Position X="72.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAQAAIAAAAAgAAAACAAAQEAgAEQSAAAAAACAIA=</HashCode>
+      <FileName>Logic\Coupon\CouponInfomationBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponRandomBll" Collapsed="true">
+    <Position X="81.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Coupon\CouponRandomBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.CouponTemplateBll" Collapsed="true">
+    <Position X="76.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Coupon\CouponTemplateBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.Task.CouponTaskBll" Collapsed="true">
+    <Position X="152" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAAAAAAAAAAAAAAAgIAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>Logic\Coupon\Task\CouponTaskBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.V2.CouponActivityBll" Collapsed="true">
+    <Position X="74.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABoASAAQAIAgKIAgAggAAAAAAAAAAAAAAAIQCAAA=</HashCode>
+      <FileName>Logic\Coupon\V2\CouponActivityBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Coupon.V2.CouponActivityGiftBll" Collapsed="true">
+    <Position X="76.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Logic\Coupon\V2\CouponActivityGiftBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.FeedBack.FeedBackBll" Collapsed="true">
+    <Position X="83.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\FeedBack\FeedBackBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Idle.IdleLotBll" Collapsed="true">
+    <Position X="78.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Idle\IdleLotBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Integral.IntegralBll" Collapsed="true">
+    <Position X="78.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Integral\IntegralBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Map.MapBll" Collapsed="true">
+    <Position X="76.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAIAAAAAAAAAAAAAgAAAAAAAAgAAAAAEAAAAA=</HashCode>
+      <FileName>Logic\Map\MapBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Monthly.MonthlyCarInfoBll" Collapsed="true">
+    <Position X="150.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAAAAACAAAAAgQAAAAAEggAgCAAAIAAAAAA=</HashCode>
+      <FileName>Logic\Monthly\MonthlyCarInfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Monthly.MonthlyTimecarinfoBll" Collapsed="true">
+    <Position X="152" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQIBAAAAAAAAAEAAAAAAAEAEAAABAQAAAAA=</HashCode>
+      <FileName>Logic\Monthly\MonthlyTimecarinfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Montyly.MontylyCarInfoaddByappBll" Collapsed="true">
+    <Position X="153.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Montyly\MontylyCarInfoaddByappBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgBll" Collapsed="true">
+    <Position X="79" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCCAAAAAAAACAAAAAAAIAAAAIAAQAAAAAAAAACAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgDefinePersonalBll" Collapsed="true">
+    <Position X="74.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgDefinePersonalBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgDefineSmsBll" Collapsed="true">
+    <Position X="76.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgDefineSmsBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgDefineSystemBll" Collapsed="true">
+    <Position X="70" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAQAAAAAEgAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgDefineSystemBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgDefineWxBll" Collapsed="true">
+    <Position X="85.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgDefineWxBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgStatSendBll" Collapsed="true">
+    <Position X="155.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgStatSendBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.MsgUserLogBll" Collapsed="true">
+    <Position X="146.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Msg\MsgUserLogBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Msg.Task.MsgSendingTaskBll" Collapsed="true">
+    <Position X="78.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Logic\Msg\Task\MsgSendingTaskBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Notification.NotificationBll" Collapsed="true">
+    <Position X="148.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAUAAEAAABAAAEAAKgAAABAAAAAAAgAA=</HashCode>
+      <FileName>Logic\Notification\NotificationBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Oms.OmsMerchantBll" Collapsed="true">
+    <Position X="153.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Oms\OmsMerchantBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersBll" Collapsed="true">
+    <Position X="70" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAAQABACQGAAAEAAAClAACAmAAAACYAAEIIgARggA=</HashCode>
+      <FileName>Logic\Orders\OrdersBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersCanceledBll" Collapsed="true">
+    <Position X="81.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersCanceledBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersExtreCarexitBll" Collapsed="true">
+    <Position X="76.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersExtreCarexitBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersExtreRenewalmonthBll" Collapsed="true">
+    <Position X="78.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersExtreRenewalmonthBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersExtreSubscribeBll" Collapsed="true">
+    <Position X="72.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAACAAAgAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersExtreSubscribeBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersExtreVipBll" Collapsed="true">
+    <Position X="88" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersExtreVipBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersExtreVipDeferredBll" Collapsed="true">
+    <Position X="80.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersExtreVipDeferredBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersPreBll" Collapsed="true">
+    <Position X="80.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACQAIAAAAAAAAAAEAABAAAAAAAgAAAAAAAIAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersPreBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.OrdersSuccesBll" Collapsed="true">
+    <Position X="80.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQBEAAAAAwAAAAAABAAJAAAAAoCAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\OrdersSuccesBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll" Collapsed="true">
+    <Position X="155.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ActivityOrderProccess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\ActivityOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.BaseProccess" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAICAAAAAAAAAAAAAAAAAAAQCAAAAAAAAIAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\BaseProccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.CancelOrderProccess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="148.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\CancelOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.FastPaymentOrderProccess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="155.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\FastPaymentOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.MonthlyFeeOrderProccess" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\MonthlyFeeOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.MonthlyTimeFeeOrderProccess" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\MonthlyTimeFeeOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.ProStopPaymentProccess" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\ProStopPaymentProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.Instance.RechargeOrderProccess" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="150.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\Instance\RechargeOrderProccess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\OrderProccessBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll" Collapsed="true">
+    <Position X="78.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAAAAAABCAAgAAAAgIAAAAIIAAgAAAAAI=</HashCode>
+      <FileName>Logic\Orders\Task\OrdersTaskBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.EboReportBll" Collapsed="true">
+    <Position X="153.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Logic\Park\EboReportBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkFeeBll" Collapsed="true">
+    <Position X="146.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkFeeBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkFeeextraBll" Collapsed="true">
+    <Position X="148.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkFeeextraBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkInfoBll" Collapsed="true">
+    <Position X="79" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQIQAAAAAAAAwAgAAAAAQEAQEgAAAAAjAAAEAgAAEg=</HashCode>
+      <FileName>Logic\Park\ParkInfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkLockBll" Collapsed="true">
+    <Position X="81" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkLockBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkLockMamangeBll" Collapsed="true">
+    <Position X="74.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAAAAAAIAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkLockMamangeBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkLockShareBll" Collapsed="true">
+    <Position X="69.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkLockShareBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkNewBll" Collapsed="true">
+    <Position X="150.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAQAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Park\ParkNewBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkPointBll" Collapsed="true">
+    <Position X="152" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Logic\Park\ParkPointBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkRegisterBll" Collapsed="true">
+    <Position X="69.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Logic\Park\ParkRegisterBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkStatusBll" Collapsed="true">
+    <Position X="153.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Logic\Park\ParkStatusBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.ParkSyncBll" Collapsed="true">
+    <Position X="74.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Logic\Park\ParkSyncBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Park.SettingHolidayBll" Collapsed="true">
+    <Position X="152" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Logic\Park\SettingHolidayBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Partnerpay.PartnerpayControlBll" Collapsed="true">
+    <Position X="70" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Logic\Partnerpay\PartnerpayControlBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Partnerpay.PartnerpayInfoBll" Collapsed="true">
+    <Position X="81.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Partnerpay\PartnerpayInfoBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Partnerpay.PartnerpayPlatformconfigBll" Collapsed="true">
+    <Position X="70" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Partnerpay\PartnerpayPlatformconfigBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Partnerpay.PayConfigBll" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="155.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAABAAAAAIAAAUgACAAAAAAAAAEAAAAABAAAE=</HashCode>
+      <FileName>Logic\Partnerpay\PayConfigBll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Payment.PaymentBll" Collapsed="true">
+    <Position X="71.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAJAAABAAAAAAAAAIAAAAABAAAAAAAA=</HashCode>
+      <FileName>Logic\Payment\PaymentBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Payment.PaymentRoleForParkBll" Collapsed="true">
+    <Position X="69.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Payment\PaymentRoleForParkBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Payment.Task.PaymentTaskBll" Collapsed="true">
+    <Position X="146.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAECAAAAAAAACAAAAAAAgIAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>Logic\Payment\Task\PaymentTaskBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Proc.ProcBll" Collapsed="true">
+    <Position X="148.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Proc\ProcBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Recommend.RecommendRelationshipBll" Collapsed="true">
+    <Position X="80.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAAAA=</HashCode>
+      <FileName>Logic\Recommend\RecommendRelationshipBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Recommend.RecommendTokenBll" Collapsed="true">
+    <Position X="76.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Recommend\RecommendTokenBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Sms.SmsBll" Collapsed="true">
+    <Position X="72.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Logic\Sms\SmsBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Stat.StatBll" Collapsed="true">
+    <Position X="72.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Stat\StatBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Subscribe.SubscribeBll" Collapsed="true">
+    <Position X="69.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgECAAAAAAgAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Logic\Subscribe\SubscribeBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Sys.SysBannerBll" Collapsed="true">
+    <Position X="72.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Sys\SysBannerBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Sys.SysItemCodeBll" Collapsed="true">
+    <Position X="76.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAEDAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Logic\Sys\SysItemCodeBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Sys.SysVersionBll" Collapsed="true">
+    <Position X="73.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Sys\SysVersionBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.SysUser.SysUserAccountBll" Collapsed="true">
+    <Position X="71.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAIAAAAAAAEAAAAAAAEAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Logic\SysUser\SysUserAccountBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.SysUser.SysUserAccountLogBll" Collapsed="true">
+    <Position X="69.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Logic\SysUser\SysUserAccountLogBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.SysUser.SysUserBll" Collapsed="true">
+    <Position X="71.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAARQSSAAAAAAgAAAgABQAAgAAgBACAAEgYACAEIA=</HashCode>
+      <FileName>Logic\SysUser\SysUserBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.ThirdParty.PartnerServiceBll" Collapsed="true">
+    <Position X="144.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgECAAAAAAgAAAAAAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>Logic\ThirdParty\PartnerServiceBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.ThirdParty.ThirdpartyMonthlySyncBll" Collapsed="true">
+    <Position X="79" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Logic\ThirdParty\ThirdpartyMonthlySyncBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.ThirdParty.ThirdpartyMonthlyTotrdpartBll" Collapsed="true">
+    <Position X="74.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Logic\ThirdParty\ThirdpartyMonthlyTotrdpartBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.ThirdParty.Task.ThirdpartyMonthlyUploadTaskBll" Collapsed="true">
+    <Position X="153.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACQAAAAAAAQAAAAAAAAAAABAAAABQAAAAAA=</HashCode>
+      <FileName>Logic\ThirdParty\Task\ThirdpartyMonthlyUploadTaskBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Logic.Weather.WeatherBll" Collapsed="true">
+    <Position X="155.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Weather\WeatherBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Notification.NotificationHelper" Collapsed="true">
+    <Position X="150.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAoIABYBQCgQEAAAAIcUwiAACAR0sAAAIIAEk8CAQ=</HashCode>
+      <FileName>Notification\NotificationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lpn.Service.Bll.Notification.NotificationSend" Collapsed="true">
+    <Position X="152" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notification\NotificationSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.IOrderProccess" Collapsed="true">
+    <Position X="146.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Orders\Task\OrderProccess\IOrderProccess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

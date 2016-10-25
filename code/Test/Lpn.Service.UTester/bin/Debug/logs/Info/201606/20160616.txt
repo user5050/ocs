@@ -1,0 +1,45 @@
+[Header]\r\n2016-06-16 14:46:11,059 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆入场","Type":103,"Parkcode":"66666666","Content":"2016-06-16 14:46:09,川A11118进入250测试停车场,您可以开启快速出场服务,享受不停车直接出场的VIP服务,点击立刻开启快速出场服务！\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 111111111111111111111111111111111111","Time":"2016-06-16 14:46:10","Viewed":"false","Url":"103","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+
+2016-06-16 14:48:46,755 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆入场","Type":103,"Parkcode":"66666666","Content":"2016-06-16 14:48:44,川A11118进入250测试停车场,您可以开启快速出场服务,享受不停车直接出场的VIP服务,点击立刻开启快速出场服务！\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 111111111111111111111111111111111111","Time":"2016-06-16 14:48:45","Viewed":"false","Url":"103","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+
+2016-06-16 14:49:03,796 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆入场","Type":103,"Parkcode":"66666666","Content":"2016-06-16 14:48:51,川A11118进入250测试停车场,您可以开启快速出场服务,享受不停车直接出场的VIP服务,点击立刻开启快速出场服务！\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\n12346AAAABBBCCC@#￥%\n43RRRRR#￥%%……\nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 \nB、新增或修改了车辆入场消息内容。APP已绑定的车辆入场 \n\n实际结果：未收到车辆入场消息 （IOS能收到） \n\n预期结果：收到修改后的车辆入场消息 111111111111111111111111111111111111","Time":"2016-06-16 14:49:03","Viewed":"false","Url":"103","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+
+2016-06-16 14:49:41,786 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆入场","Type":103,"Parkcode":"66666666","Content":"2016-06-16 14:48:51,川A11118进入250测试停车场,您可以开启快速出场服务,享受不停车直接出场的VIP服务,点击立刻开启快速出场服务！\n\n\n\n","Time":"2016-06-16 14:49:26","Viewed":"false","Url":"103","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-06-16 14:52:51,720 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"c898b917e2b3866a665adf9cefba4e866078db084970af766b469c468bb0b028","OpenID":"","Payload":{"Title":"车辆入场","Type":103,"Parkcode":"66666666","Content":"2016-06-16 14:52:07,川A11118进入250测试停车场,您可以开启快速出场服务,享受不停车直接出场的VIP服务,点击立刻开启快速出场服务！\n\n\n\n","Time":"2016-06-16 14:52:47","Viewed":"false","Url":"104","SN":"0"},"Extra":null}
+请求:http://localhost
+
+
+
+
+

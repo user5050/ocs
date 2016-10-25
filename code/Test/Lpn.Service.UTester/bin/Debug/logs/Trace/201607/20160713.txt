@@ -1,0 +1,61 @@
+﻿[Header]\r\n2016-07-13 16:34:13,102 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"54d3e66dce01452eb772be85c0c598ca","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163413093756800006660\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:33:56\",\"PaymentMoney\":0.0,\"TotalMoney\":0.0,\"DeductionMoney\":0.0,\"Mark\":\"临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:34:13.1018223+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:34:13,946 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"54d3e66dce01452eb772be85c0c598ca","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163413093756800006660\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:33:56\",\"PaymentMoney\":0.0,\"TotalMoney\":0.0,\"DeductionMoney\":0.0,\"Mark\":\"临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:34:13.1018223+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"Type":1,"deduname":"","dedumoney":0.0,"couponname":"","couponrealmoney":0.0}}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-07-13 16:37:23,087 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"c219b10024b44579b4f17a834eb662db","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163723081438000006670\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:37:25\",\"PaymentMoney\":20.0,\"TotalMoney\":20.0,\"DeductionMoney\":0.0,\"Mark\":\"天虹临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:37:23.0860213+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:37:23,419 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"c219b10024b44579b4f17a834eb662db","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163723081438000006670\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:37:25\",\"PaymentMoney\":20.0,\"TotalMoney\":20.0,\"DeductionMoney\":0.0,\"Mark\":\"天虹临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:37:23.0860213+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"Type":1,"deduname":"","dedumoney":0.0,"couponname":"","couponrealmoney":0.0}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-07-13 16:38:06,605 [9] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"3d8e7eff58e242d389ea7275a7d20c3b","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163806598085100006670\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:38:08\",\"PaymentMoney\":0.0,\"TotalMoney\":0.0,\"DeductionMoney\":0.0,\"Mark\":\"天虹临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:38:06.6045596+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-07-13 16:38:07,271 [9] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:83] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：支付临停费用:请求:{"Id":"3d8e7eff58e242d389ea7275a7d20c3b","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"160713163806598085100006670\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A58585\",\"EnterTime\":\"2016-07-15 15:34:46\",\"ExitTime\":\"2016-07-13 16:38:08\",\"PaymentMoney\":0.0,\"TotalMoney\":0.0,\"DeductionMoney\":0.0,\"Mark\":\"天虹临停费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-07-13T16:38:06.6045596+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"Type":1,"deduname":"","dedumoney":0.0,"couponname":"","couponrealmoney":0.0}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n

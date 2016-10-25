@@ -1,0 +1,72 @@
+[Header]\r\n2016-10-13 14:11:28,612 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11112&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=7279&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=&thirdTradeNo=160601172449888074800006431&memberPrice=15&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"502"}
+请求:http://localhost
+
+
+
+
+
+2016-10-13 14:11:28,835 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getSpotList?time=1476339088&username=E%E6%B3%8A&key=60b28993adecc5a3a4524045188df30d==>=>{"errorNo":"-1","msg":"参数传递有误"}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-10-13 14:11:55,568 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476339115&sid=151&key=40a9e3d484ae8f7e0dec5e77d7b1da4b==>=>{"errorNo":"-1","msg":"参数传递有误"}
+请求:http://localhost
+
+
+
+
+
+2016-10-13 14:12:14,899 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476339134&sid=151&key=8700a871bbfa60ff52c236369f3ce9f1==>=>{"errorNo":"-1","msg":"参数传递有误"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 14:12:34,918 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getSpotList?username=E%E6%B3%8A&time=1476339154&key=4732e4dca09d5f056ed5b896ef88eac5==>=>{"errorNo":"-1","msg":"参数传递有误"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 14:14:35,987 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476339275&sid=151&key=237d02b5878fddf089387cf802fef4a6==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 14:16:00,488 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476339360&sid=151&key=b12ed3788d625c08f85b1afc3b17fcb1==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 14:31:00,734 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476340258&tid=1424&num=1&name=fhjj&idcard=&travelDates=&is_payment=1&price=0&apiOrderId=160928151450153881600007371&phone=13096306603&needmsg=0&key=0475f3439408e45a5c07d1b6a28284d4==>=>{"errorNo":"0","msg":"操作成功,当前订单号： 14763402653802","code":"","orderid":"14763402653802"}
+请求:http://localhost
+
+
+
+
+

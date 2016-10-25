@@ -1,0 +1,168 @@
+[Header]\r\n2016-10-19 16:18:02,812 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:18:02,923 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:18:02,929 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:18:02,934 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:18:02,939 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:18:02,944 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-19 16:19:54,233 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,328 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件BestPayMobile
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,333 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件BestPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,341 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,346 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,355 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:54,614 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx99c9f85add60aaa0]]></appid><body><![CDATA[支付停车费]]></body><mch_id><![CDATA[1343274301]]></mch_id><nonce_str><![CDATA[18b630fe06b94437bcecd67f80132d7b]]></nonce_str><notify_url><![CDATA[http://lpn.ebopark.com/PayPlatform/WexinCallBack]]></notify_url><openid><![CDATA[dfsfsdfds]]></openid><out_trade_no><![CDATA[161019161953591524000001401]]></out_trade_no><sign><![CDATA[FF1EC7C8FCC9B9C509999494AAE18131]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><sub_mch_id><![CDATA[1345017301]]></sub_mch_id><time_expire><![CDATA[20161019162454]]></time_expire><time_start><![CDATA[20161019161954]]></time_start><total_fee>1</total_fee><trade_type><![CDATA[JSAPI]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:19:55,803 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[openid is invalid]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:20:24,739 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx99c9f85add60aaa0]]></appid><body><![CDATA[支付停车费]]></body><mch_id><![CDATA[1343274301]]></mch_id><nonce_str><![CDATA[162a65bc80c547abbf81a0cf02a51d4c]]></nonce_str><notify_url><![CDATA[http://lpn.ebopark.com/PayPlatform/WexinCallBack]]></notify_url><openid><![CDATA[dfsfsdfds]]></openid><out_trade_no><![CDATA[161019162024724855800001401]]></out_trade_no><sign><![CDATA[7895E293654D1AAC9B5D56B8A1B92004]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><sub_mch_id><![CDATA[1345017301]]></sub_mch_id><time_expire><![CDATA[20161019162524]]></time_expire><time_start><![CDATA[20161019162024]]></time_start><total_fee>1</total_fee><trade_type><![CDATA[JSAPI]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:20:25,499 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[openid is invalid]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:20:30,248 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx99c9f85add60aaa0]]></appid><body><![CDATA[支付停车费]]></body><mch_id><![CDATA[1343274301]]></mch_id><nonce_str><![CDATA[d87b68a2381840a78bf71d502764a7b4]]></nonce_str><notify_url><![CDATA[http://lpn.ebopark.com/PayPlatform/WexinCallBack]]></notify_url><openid><![CDATA[dfsfsdfds]]></openid><out_trade_no><![CDATA[161019162030229365300001401]]></out_trade_no><sign><![CDATA[7E653CB8C465D3BD2066E30DF159022E]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><sub_mch_id><![CDATA[1345017301]]></sub_mch_id><time_expire><![CDATA[20161019162530]]></time_expire><time_start><![CDATA[20161019162030]]></time_start><total_fee>1</total_fee><trade_type><![CDATA[JSAPI]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2016-10-19 16:20:30,578 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[openid is invalid]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+

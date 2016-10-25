@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF1A7257-4213-4B3B-8C43-C4B45FF9D76B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OneCoin.Service.Model</RootNamespace>
+    <AssemblyName>OneCoin.Service.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Online|AnyCPU'">
+    <OutputPath>bin\Online\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\depedence\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\WebConfig.cs" />
+    <Compile Include="Const\AppconfigDefine.cs" />
+    <Compile Include="Const\CouponDefine.cs" />
+    <Compile Include="Db\Coupon\CouponInfoDb.cs" />
+    <Compile Include="Db\Feed\FeedBackDb.cs" />
+    <Compile Include="Db\Game\GameComputeFactorDb.cs" />
+    <Compile Include="Db\Game\GameExpresDb.cs" />
+    <Compile Include="Db\Game\GameFactorStockDb.cs" />
+    <Compile Include="Db\Game\GameMemberDb.cs" />
+    <Compile Include="Db\Game\GameMemberStatDb.cs" />
+    <Compile Include="Db\Game\GameShowDb.cs" />
+    <Compile Include="Db\Game\GameStockComputeEldtimeDb.cs" />
+    <Compile Include="Db\Game\GameStockComputeTimeDb.cs" />
+    <Compile Include="Db\Game\GameStockInfoDb.cs" />
+    <Compile Include="Db\Home\HomeBannerDb.cs" />
+    <Compile Include="Db\Home\HomeNewDb.cs" />
+    <Compile Include="Db\Msg\MsgInfoDb.cs" />
+    <Compile Include="Db\Orders\OrdersCanceledDb.cs" />
+    <Compile Include="Db\Orders\OrdersPreDb.cs" />
+    <Compile Include="Db\Orders\OrdersRecycleDb.cs" />
+    <Compile Include="Db\Orders\OrdersSuccesDb.cs" />
+    <Compile Include="Db\Partnerpay\PartnerpayControlDb.cs" />
+    <Compile Include="Db\Partnerpay\PartnerpayInfoDb.cs" />
+    <Compile Include="Db\Partnerpay\PartnerpayPlatformconfigDb.cs" />
+    <Compile Include="Db\Product\ProductCategoryDb.cs" />
+    <Compile Include="Db\Product\ProductDetailDb.cs" />
+    <Compile Include="Db\Product\ProductGameDb.cs" />
+    <Compile Include="Db\Product\ProductGameWinnerDb.cs" />
+    <Compile Include="Db\Product\ProductInfoDb.cs" />
+    <Compile Include="Db\User\UserBaseDb.cs" />
+    <Compile Include="Db\User\UserContractDb.cs" />
+    <Compile Include="Db\User\UserDiamondDb.cs" />
+    <Compile Include="Db\User\UserDiamondLogDb.cs" />
+    <Compile Include="Dto\Request\Banner\ReqGetDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqCouponsCanPayDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqIsCanGetRegisterCouponDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqLockCouponDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqRecommendRelationsDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqSendCouponToUserDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqShareReceivedDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqCouponsOfUserDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqGetShareDto.cs" />
+    <Compile Include="Dto\Request\Coupon\ReqGetCouponDto.cs" />
+    <Compile Include="Dto\Request\Product\ReqGameWinerDto.cs" />
+    <Compile Include="Dto\Request\Product\ReqGameMemberDto.cs" />
+    <Compile Include="Dto\Request\FeedBack\ReqFeedBackDto.cs" />
+    <Compile Include="Dto\Request\Integral\ReqIntegralQueryDto.cs" />
+    <Compile Include="Dto\Request\Orders\ReqCancelOrderNo.cs" />
+    <Compile Include="Dto\Request\Orders\ReqGetChargeOrderNoDto.cs" />
+    <Compile Include="Dto\Request\Orders\ReqGetMonthlyFeeOrderNoDto.cs" />
+    <Compile Include="Dto\Request\Orders\ReqGetOrderLogsDto.cs" />
+    <Compile Include="Dto\Request\Orders\ReqGetPurchaseOrderNoDto.cs" />
+    <Compile Include="Dto\Request\Orders\ReqGetSupportsDto.cs" />
+    <Compile Include="Dto\Request\Payment\ReqGetMoneyForMonthlyFeeDto.cs" />
+    <Compile Include="Dto\Request\Payment\ReqGetProStopDto.cs" />
+    <Compile Include="Dto\Request\Payment\ReqGetProStopFroWx.cs" />
+    <Compile Include="Dto\Request\PayPlatform\ReqEboPayCallBackDto.cs" />
+    <Compile Include="Dto\Request\Product\ReqJoinCntStatDto.cs" />
+    <Compile Include="Dto\Request\Sms\ReqValidateDto.cs" />
+    <Compile Include="Dto\Request\Sms\ReqSendDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqBindMobileDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqGetInfoByOpenIdDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqUpdateDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqIsRegistDto.cs" />
+    <Compile Include="Dto\Request\RequestBaseDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqRegistDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqUpdateHeadDto.cs" />
+    <Compile Include="Dto\Request\SysUser\ReqGameLogsDto.cs" />
+    <Compile Include="Dto\Request\ThirdParty\ReqGetProStopPaymentDto.cs" />
+    <Compile Include="Dto\Request\ThirdParty\ReqGetRenewalDto.cs" />
+    <Compile Include="Dto\Request\ThirdParty\ReqThirdPartyMonthlySyncDto.cs" />
+    <Compile Include="Dto\Response\Banner\ResBannerDto.cs" />
+    <Compile Include="Dto\Response\Banner\ResGetDto.cs" />
+    <Compile Include="Dto\Response\Coupon\ResActivityTempDto.cs" />
+    <Compile Include="Dto\Response\Coupon\ResCouponShareDto.cs" />
+    <Compile Include="Dto\Response\Coupon\ResCouponDto.cs" />
+    <Compile Include="Dto\Response\Coupon\ResCouponInfoDto.cs" />
+    <Compile Include="Dto\Response\Coupon\ResRecommendRelationsDto.cs" />
+    <Compile Include="Dto\Response\Msg\ResMsgDto.cs" />
+    <Compile Include="Dto\Response\Msg\ResNewsDto.cs" />
+    <Compile Include="Dto\Response\Orders\ResOrderDto.cs" />
+    <Compile Include="Dto\Response\Orders\ResOrderLogDto.cs" />
+    <Compile Include="Dto\Response\Payment\DeductionDto.cs" />
+    <Compile Include="Dto\Response\Payment\ResGetMoneyForMonthlyFeeDto.cs" />
+    <Compile Include="Dto\Response\Payment\ResGetProStopDto.cs" />
+    <Compile Include="Dto\Response\PayPlatform\ResWexinCallBackDto.cs" />
+    <Compile Include="Dto\Response\Product\ResGameShowDto.cs" />
+    <Compile Include="Dto\Response\Product\ResProductGameDetailDto.cs" />
+    <Compile Include="Dto\Response\Product\ResProductInGameDto.cs" />
+    <Compile Include="Dto\Response\User\ResContractDto.cs" />
+    <Compile Include="Dto\Response\User\ResLoginDto.cs" />
+    <Compile Include="Entity\AntiThief\VerifyingInfo.cs" />
+    <Compile Include="Entity\Config\IPayConfig.cs" />
+    <Compile Include="Entity\Config\PayConfig.cs" />
+    <Compile Include="Entity\Coupon\CouponParkLimitType.cs" />
+    <Compile Include="Entity\Coupon\CouponRangeType.cs" />
+    <Compile Include="Entity\Coupon\CouponState.cs" />
+    <Compile Include="Entity\Coupon\CouponType.cs" />
+    <Compile Include="Entity\Coupon\CouponViewCache.cs" />
+    <Compile Include="Entity\Coupon\CouponWay.cs" />
+    <Compile Include="Entity\Coupon\GetGiftDto.cs" />
+    <Compile Include="Entity\Event\Coupon\CouponEventArgs.cs" />
+    <Compile Include="Entity\Msg\MsgDto.cs" />
+    <Compile Include="Entity\Msg\MsgMarkDefine.cs" />
+    <Compile Include="Entity\Notification\MessageInfo.cs" />
+    <Compile Include="Entity\Park\ParkOnlineState.cs" />
+    <Compile Include="Entity\Partnerpay\PartnerpayControlDto.cs" />
+    <Compile Include="Entity\Payment\Activity\ActivityPurchaseReq.cs" />
+    <Compile Include="Entity\Payment\CallBackPaymentInfo.cs" />
+    <Compile Include="Entity\Payment\CanceledPaymentInfo.cs" />
+    <Compile Include="Entity\Payment\EParkAccountInfo.cs" />
+    <Compile Include="Entity\Payment\PurchaseNotify.cs" />
+    <Compile Include="Entity\SysUser\UserNotifyToken.cs" />
+    <Compile Include="Enum\Msg\MsgTargetType.cs" />
+    <Compile Include="Enum\Msg\MsgType.cs" />
+    <Compile Include="Enum\Msg\ParkNewRuleType.cs" />
+    <Compile Include="Enum\Orders\OrdersExtre.cs" />
+    <Compile Include="Enum\Payment\PaymentPurpose.cs" />
+    <Compile Include="Enum\Payment\PaymentRole.cs" />
+    <Compile Include="Enum\Payment\PaymentSubPurpose.cs" />
+    <Compile Include="Enum\Payment\PaymentType.cs" />
+    <Compile Include="Entity\Payment\PurchaseReq.cs" />
+    <Compile Include="Entity\Payment\PurchaseRes.cs" />
+    <Compile Include="Entity\Performance\PerformanceStat.cs" />
+    <Compile Include="Enum\Orders\OrdersStatus.cs" />
+    <Compile Include="Enum\Product\GameLogsType.cs" />
+    <Compile Include="Enum\Product\GameState.cs" />
+    <Compile Include="Enum\ResultState.cs" />
+    <Compile Include="Extension\Coupon\CouponExtension.cs" />
+    <Compile Include="Extension\Dto\CommExtension.cs" />
+    <Compile Include="Extension\NewsExtension.cs" />
+    <Compile Include="Extension\Orders\OrdersExtension.cs" />
+    <Compile Include="Extension\Product\ProductExtensions.cs" />
+    <Compile Include="Extension\User\UserExtension.cs" />
+    <Compile Include="Param\ParamDefine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result\ResultDTO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Helper\Lpn.Service.Helper\OneCoin.Service.Helper.csproj">
+      <Project>{cab0c586-476e-4e9f-a185-1dc7dfcd2bb7}</Project>
+      <Name>OneCoin.Service.Helper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

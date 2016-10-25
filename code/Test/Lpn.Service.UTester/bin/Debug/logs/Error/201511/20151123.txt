@@ -1,0 +1,63 @@
+[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-23 13:48:17,395 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 13:48:17	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 13:48:17,396 [17] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 13:48:17	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 13:48:26,138 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]发送消息失败，错误原因：{0}	时间:2015/11/23 13:48:26	代理:
+内容：Message:
+远程服务器返回错误: (404) 未找到。
+StackTrace:
+   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, Byte[] data)
+   在 Lpn.Service.Bll.Notification.NotificationSend.SendNotification(MessageInfo info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationSend.cs:行号 28
+Source:
+System
+
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n

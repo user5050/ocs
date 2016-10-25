@@ -1,0 +1,320 @@
+﻿[Header]\r\n2016-01-26 14:52:38,373 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"27027eb38af342ce9f1ecd805420c170","Sender":"66666666","Type":19,"Data":"{\"VehicleNo\":\"川A12345\",\"BookingCode\":\"566b82abad80492ba9634661d436c718\",\"EnterTime\":\"2016-01-26 16:52:19\",\"ExitTime\":\"2016-01-26 18:52:19\",\"BookingTime\":\"2016-01-26 14:52:37\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T14:52:38.1793033+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-26 15:02:23,444 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：支付临停费用:请求:{"Id":"e22d04f3a810400b928653470d738ace","Sender":"66666666","Type":1,"Data":"{\"OrderNo\":\"373be81754a340f9bb99f2be0c1045cb\",\"ParkCode\":\"66666666\",\"VehicleNo\":\"川A12345\",\"EnterTime\":\"2016-01-26 11:02:22\",\"ExitTime\":\"2016-01-26 15:02:22\",\"PaymentMoney\":1.0,\"TotalMoney\":1.0,\"DeductionMoney\":0.0,\"Mark\":\"泊泊支付停车费\",\"CouponName\":null,\"CouponMoney\":0.0,\"DeductionId\":null}","Time":"2016-01-26T15:02:23.1862094+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-01-26 16:03:56,747 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"dac2d6110e134aeea97fb1b7a6a1ca26","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A12345\",\"BookingCode\":\"99d69f668ea24eaa8d104871ae9819be\",\"EnterTime\":\"2016-01-26 18:03:42\",\"ExitTime\":\"2016-01-26 20:03:42\",\"BookingTime\":\"2016-01-26 16:03:56\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:03:56.599918+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:04:41,110 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"87f4ac2c181d4d3aa936a703d6fe1ecb","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A12345\",\"BookingCode\":\"99d69f668ea24eaa8d104871ae9819be\",\"EnterTime\":\"2016-01-26 18:03:42\",\"ExitTime\":\"2016-01-26 20:03:42\",\"BookingTime\":\"2016-01-26 16:04:41\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:04:41.1093954+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:04:42,080 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"87f4ac2c181d4d3aa936a703d6fe1ecb","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A12345\",\"BookingCode\":\"99d69f668ea24eaa8d104871ae9819be\",\"EnterTime\":\"2016-01-26 18:03:42\",\"ExitTime\":\"2016-01-26 20:03:42\",\"BookingTime\":\"2016-01-26 16:04:41\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:04:41.1093954+08:00","IsOneTime":true}
+返回{"State":-1199019,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-26 16:05:57,486 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"ef8c6775c283401f826a6fc60d4d58f0","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"37c98da417fc479ca320e425119fe9a3\",\"EnterTime\":\"2016-01-26 18:05:50\",\"ExitTime\":\"2016-01-26 20:05:50\",\"BookingTime\":\"2016-01-26 16:05:57\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:05:57.3180512+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:06:13,286 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"b9445e1c7d83443fbe2b57bddbc578b0","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"37c98da417fc479ca320e425119fe9a3\",\"EnterTime\":\"2016-01-26 18:05:50\",\"ExitTime\":\"2016-01-26 20:05:50\",\"BookingTime\":\"2016-01-26 16:06:13\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:06:13.2863126+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:06:37,233 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"5b94969cb36b4691936500c1670c1a63","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"37c98da417fc479ca320e425119fe9a3\",\"EnterTime\":\"2016-01-26 18:05:50\",\"ExitTime\":\"2016-01-26 20:05:50\",\"BookingTime\":\"2016-01-26 16:06:37\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:06:37.2338101+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:06:37,808 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"5b94969cb36b4691936500c1670c1a63","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"37c98da417fc479ca320e425119fe9a3\",\"EnterTime\":\"2016-01-26 18:05:50\",\"ExitTime\":\"2016-01-26 20:05:50\",\"BookingTime\":\"2016-01-26 16:06:37\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:06:37.2338101+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:07:04,445 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"326147115e00437aad6e8be4b670f905","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"088260e4d41a495db781d128034e1acc\",\"EnterTime\":\"2016-01-26 18:07:01\",\"ExitTime\":\"2016-01-26 20:07:01\",\"BookingTime\":\"2016-01-26 16:07:04\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:07:04.4451578+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:07:04,815 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"326147115e00437aad6e8be4b670f905","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66666\",\"BookingCode\":\"088260e4d41a495db781d128034e1acc\",\"EnterTime\":\"2016-01-26 18:07:01\",\"ExitTime\":\"2016-01-26 20:07:01\",\"BookingTime\":\"2016-01-26 16:07:04\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:07:04.4451578+08:00","IsOneTime":true}
+返回{"State":-1199019,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-26 16:08:02,360 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"2ba84cdcf94f4c07a00d384956be5646","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:01\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:08:02.2063635+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:08:18,173 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"334fc2ce9bb94e468da6bee41e3c0368","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:18\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:08:18.173593+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:08:37,077 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"24129a3f0b1940308c147b8e89f9a22d","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:37\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:08:37.0770311+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:08:37,595 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"24129a3f0b1940308c147b8e89f9a22d","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:37\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:08:37.0770311+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:09:01,611 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"4e23fd8b3adf4758832a6c9aa6846c89","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:48\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:09:01.117242+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:09:29,308 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"4e23fd8b3adf4758832a6c9aa6846c89","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66667\",\"BookingCode\":\"937f058d4ac64ff094af6f671a96f46d\",\"EnterTime\":\"2016-01-26 18:07:56\",\"ExitTime\":\"2016-01-26 20:07:56\",\"BookingTime\":\"2016-01-26 16:08:48\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:09:01.117242+08:00","IsOneTime":true}
+返回{"State":-1199019,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-26 16:11:16,656 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"deb58f131d874ebfbf3b2ed596e3bab4","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66668\",\"BookingCode\":\"8b073a1b9d5a42d09195e02b4af6abc8\",\"EnterTime\":\"2016-01-26 18:10:58\",\"ExitTime\":\"2016-01-26 20:10:58\",\"BookingTime\":\"2016-01-26 16:11:16\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:11:16.4946465+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-26 16:21:27,567 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"c5536f4333224b848d1c2c23ee2cdcbc","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66669\",\"BookingCode\":\"03810afd877a45ef8c203d94cfbf4f2c\",\"EnterTime\":\"2016-01-26 18:21:25\",\"ExitTime\":\"2016-01-26 20:21:25\",\"BookingTime\":\"2016-01-26 16:21:27\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:21:27.4038716+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:21:28,228 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"c5536f4333224b848d1c2c23ee2cdcbc","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66669\",\"BookingCode\":\"03810afd877a45ef8c203d94cfbf4f2c\",\"EnterTime\":\"2016-01-26 18:21:25\",\"ExitTime\":\"2016-01-26 20:21:25\",\"BookingTime\":\"2016-01-26 16:21:27\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:21:27.4038716+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:22:23,273 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"8bbcec08b5404cdcbafd0ee6d70eecb5","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66669\",\"BookingCode\":\"4838d90ca9c64e058134550f8e5134e3\",\"EnterTime\":\"2016-01-26 18:22:08\",\"ExitTime\":\"2016-01-26 20:22:08\",\"BookingTime\":\"2016-01-26 16:22:23\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:22:23.2736901+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:22:40,873 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"d9ad27d0ea1b45699848e315e184eed8","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66669\",\"BookingCode\":\"97edd569750e41e4b98d594adbda7104\",\"EnterTime\":\"2016-01-26 18:22:40\",\"ExitTime\":\"2016-01-26 20:22:40\",\"BookingTime\":\"2016-01-26 16:22:40\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:22:40.8731461+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:22:41,876 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"d9ad27d0ea1b45699848e315e184eed8","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66669\",\"BookingCode\":\"97edd569750e41e4b98d594adbda7104\",\"EnterTime\":\"2016-01-26 18:22:40\",\"ExitTime\":\"2016-01-26 20:22:40\",\"BookingTime\":\"2016-01-26 16:22:40\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:22:40.8731461+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:23:47,577 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"53252ca707234cec928bae880c73a178","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:23:47\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:23:47.577267+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:23:47,899 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"53252ca707234cec928bae880c73a178","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:23:47\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:23:47.577267+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:23:57,657 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"eb13387645144db98a38ca4247291ede","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:23:57\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:23:57.6572352+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:23:57,974 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"eb13387645144db98a38ca4247291ede","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:23:57\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:23:57.6572352+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:24:04,573 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"361441986e6645c2bb238ae8dfcfdde4","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:24:04\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:24:04.5724916+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:24:05,041 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"361441986e6645c2bb238ae8dfcfdde4","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A77774\",\"BookingCode\":\"a28f671b1b46418cba8d4b4945d20128\",\"EnterTime\":\"2016-01-26 18:22:56\",\"ExitTime\":\"2016-01-26 20:22:56\",\"BookingTime\":\"2016-01-26 16:24:04\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:24:04.5724916+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-01-26 16:28:28,585 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"989ebee6283b44f69e947bf63666b719","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66661\",\"BookingCode\":\"d57da44ea5844abba689650a8e6b3179\",\"EnterTime\":\"2016-01-26 18:28:26\",\"ExitTime\":\"2016-01-26 20:28:26\",\"BookingTime\":\"2016-01-26 16:28:28\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:28:28.410111+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:28:46,140 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"eb6328c454284841a3b766a2dbee77fe","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66661\",\"BookingCode\":\"2120fd0c44ca43c8a3aafe68346abee6\",\"EnterTime\":\"2016-01-26 18:28:46\",\"ExitTime\":\"2016-01-26 20:28:46\",\"BookingTime\":\"2016-01-26 16:28:46\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:28:46.1402383+08:00","IsOneTime":true}
+
+请求:http://localhost
+
+
+
+
+
+2016-01-26 16:28:46,609 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：预约下单:请求:{"Id":"eb6328c454284841a3b766a2dbee77fe","Sender":"55555555","Type":19,"Data":"{\"VehicleNo\":\"川A66661\",\"BookingCode\":\"2120fd0c44ca43c8a3aafe68346abee6\",\"EnterTime\":\"2016-01-26 18:28:46\",\"ExitTime\":\"2016-01-26 20:28:46\",\"BookingTime\":\"2016-01-26 16:28:46\",\"SpaceNo\":\"A001\",\"SpaceDesc\":\"A区墙角\"}","Time":"2016-01-26T16:28:46.1402383+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":{"TotalMoney":4.0}}
+请求:http://localhost
+
+
+
+
+

@@ -1,0 +1,5 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Debug\Lpn.Payment.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Debug\Lpn.Payment.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\obj\Debug\Lpn.Payment.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\obj\Debug\Lpn.Payment.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\obj\Debug\Lpn.Payment.pdb

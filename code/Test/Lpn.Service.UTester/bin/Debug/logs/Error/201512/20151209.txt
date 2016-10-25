@@ -1,0 +1,125 @@
+[Header]\r\n2015-12-09 13:52:29,204 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]请求失败	时间:2015/12/9 13:52:29	代理:
+内容：Message:
+“upacp_sdk_net.com.unionpay.sdk.SDKConfig”的类型初始值设定项引发异常。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig.get_SignCertPath()
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetSignCertId() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 31
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 53
+Source:
+Lpn.Payment
+Message:
+此处不允许使用应用程序相对虚拟路径“~”。
+StackTrace:
+   在 System.Web.VirtualPath.Create(String virtualPath, VirtualPathOptions options)
+   在 System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(String path)
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig..cctor() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKConfig.cs:行号 9
+Source:
+System.Web
+
+请求:http://localhost
+
+
+
+
+
+2015-12-09 13:54:59,700 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]请求失败	时间:2015/12/9 13:54:59	代理:
+内容：Message:
+“upacp_sdk_net.com.unionpay.sdk.SDKConfig”的类型初始值设定项引发异常。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig.get_SignCertPath()
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetSignCertId() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 31
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 53
+Source:
+Lpn.Payment
+Message:
+此处不允许使用应用程序相对虚拟路径“~”。
+StackTrace:
+   在 System.Web.VirtualPath.Create(String virtualPath, VirtualPathOptions options)
+   在 System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(String path)
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig..cctor() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKConfig.cs:行号 9
+Source:
+System.Web
+
+请求:http://localhost
+
+
+
+
+
+2015-12-09 13:55:06,468 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]请求失败	时间:2015/12/9 13:55:06	代理:
+内容：Message:
+“upacp_sdk_net.com.unionpay.sdk.SDKConfig”的类型初始值设定项引发异常。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig.get_SignCertPath()
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetSignCertId() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 31
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 53
+Source:
+Lpn.Payment
+Message:
+此处不允许使用应用程序相对虚拟路径“~”。
+StackTrace:
+   在 System.Web.VirtualPath.Create(String virtualPath, VirtualPathOptions options)
+   在 System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(String path)
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig..cctor() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKConfig.cs:行号 9
+Source:
+System.Web
+
+请求:http://localhost
+
+
+
+
+
+2015-12-09 13:55:27,212 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]请求失败	时间:2015/12/9 13:55:27	代理:
+内容：Message:
+“upacp_sdk_net.com.unionpay.sdk.SDKConfig”的类型初始值设定项引发异常。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig.get_SignCertPath()
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetSignCertId() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 31
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 53
+Source:
+Lpn.Payment
+Message:
+此处不允许使用应用程序相对虚拟路径“~”。
+StackTrace:
+   在 System.Web.VirtualPath.Create(String virtualPath, VirtualPathOptions options)
+   在 System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(String path)
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig..cctor() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKConfig.cs:行号 9
+Source:
+System.Web
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-09 14:00:11,853 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]请求失败	时间:2015/12/9 14:00:11	代理:
+内容：Message:
+“upacp_sdk_net.com.unionpay.sdk.SDKConfig”的类型初始值设定项引发异常。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig.get_SignCertPath()
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetSignCertId() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 31
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 53
+Source:
+Lpn.Payment
+Message:
+此处不允许使用应用程序相对虚拟路径“~”。
+StackTrace:
+   在 System.Web.VirtualPath.Create(String virtualPath, VirtualPathOptions options)
+   在 System.Web.Configuration.WebConfigurationManager.OpenWebConfiguration(String path)
+   在 upacp_sdk_net.com.unionpay.sdk.SDKConfig..cctor() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKConfig.cs:行号 9
+Source:
+System.Web
+
+请求:http://localhost
+
+
+
+
+

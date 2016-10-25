@@ -1,0 +1,1211 @@
+[Header]\r\n2015-12-07 15:20:19,341 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:20:19,407 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:20:19,408 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:20:19,409 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:26:25,027 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:26:25,062 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:26:25,063 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:26:25,064 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:26:25,089 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[47384b9bba5e4303bb8e03adea19a58b]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[201512071526248750662283_000000222]]></out_trade_no><sign><![CDATA[CEDCCA2AE3BA4881895022551E6CD292]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207153625]]></time_expire><time_start><![CDATA[20151207152625]]></time_start><total_fee><![CDATA[1000]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:26:25,610 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid out_trade_no]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:28:33,189 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[ec6e53310fde4dfe9209f727697cd2cf]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[201512071528316292754750_000000222]]></out_trade_no><sign><![CDATA[2065117DD754574F753DB8F52955B18D]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207153833]]></time_expire><time_start><![CDATA[20151207152833]]></time_start><total_fee><![CDATA[1000]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:28:33,436 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid out_trade_no]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:29:03,520 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[4300564531c0461aba5e71ba606f6fe3]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[201512071528316292754750_000000222]]></out_trade_no><sign><![CDATA[F8D1217750C91848A2D80ABFBA36664A]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207153851]]></time_expire><time_start><![CDATA[20151207152851]]></time_start><total_fee><![CDATA[1000]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:38:20,142 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:38:20,171 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:38:20,172 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:38:20,173 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:38:20,183 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[6f36e3d2b6cf485892cdfd744a71c928]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715382001340118000000222000]]></out_trade_no><sign><![CDATA[02AE3B31D11B48C976B2A6E8873AB426]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207154820]]></time_expire><time_start><![CDATA[20151207153820]]></time_start><total_fee><![CDATA[1000]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:38:20,815 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[BCzHVwdWqDpU4EwQ]]></nonce_str>
+<sign><![CDATA[C3AFDA616A504FB74CA67CE057F374E4]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207153820d9411d47d00510185733]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:46:48,004 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:46:48,035 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:46:48,036 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:46:48,037 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:46:48,048 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[25b2a2d779d942b3b84b0bd74e770b13]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715464786677512000000222000]]></out_trade_no><sign><![CDATA[66A0C841F61D471D26A37642D9A81E7C]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207155648]]></time_expire><time_start><![CDATA[20151207154648]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:46:48,376 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid total_fee]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2015-12-07 15:47:35,702 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:35,753 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:35,754 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:35,755 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:35,769 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[ed52614ecee84245a26133ec8c8c87b0]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715473545428356000000222000]]></out_trade_no><sign><![CDATA[7358D8238EF076ED11DD3878F82629EA]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207155735]]></time_expire><time_start><![CDATA[20151207154735]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:36,089 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid total_fee]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:47:56,881 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:56,913 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:56,914 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:56,915 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:56,926 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[474259150a2b4e61b5c4eb25ec21e18a]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715475674666016000000222000]]></out_trade_no><sign><![CDATA[5B0AC940AEBF5E4AABD00C4FF2C7943A]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207155756]]></time_expire><time_start><![CDATA[20151207154756]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:47:57,285 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid total_fee]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:48:09,459 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[395151b575984d748e8744cc42306859]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715480945922748000000222000]]></out_trade_no><sign><![CDATA[42D7F5368DBE9516A476EA0EBF1A026C]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207155809]]></time_expire><time_start><![CDATA[20151207154809]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:48:10,191 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid total_fee]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:50:44,382 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:50:44,412 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:50:44,413 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:50:44,414 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:50:44,426 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[65d1e67ab816478ca3185adf3c76fb0e]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715503199063263000000222000]]></out_trade_no><sign><![CDATA[C641610D035AF905C58173D056415CF3]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207160044]]></time_expire><time_start><![CDATA[20151207155044]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:50:45,018 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid total_fee]]></return_msg>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:51:20,699 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[6f5eb732958e44ae9ba5d225eb1357f8]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715503199063263000000222000]]></out_trade_no><sign><![CDATA[4BF9423272885BF1DC8584D46BCA14AD]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207160120]]></time_expire><time_start><![CDATA[20151207155120]]></time_start><total_fee><![CDATA[1.00]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 15:56:13,251 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:56:13,281 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:56:13,282 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:56:13,283 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:56:13,308 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[71e93f725ccd4ba9b25e92a5d128ab44]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120715561133062428000000222000]]></out_trade_no><sign><![CDATA[D4F42C55359695DC29D1F2A58B817A88]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207160613]]></time_expire><time_start><![CDATA[20151207155613]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 15:56:24,580 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[ifrhrut7tIQDsYJX]]></nonce_str>
+<sign><![CDATA[92CC546C3B0335B878F3DDA3868D8EB1]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207155613934704173b0168745078]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 16:20:04,733 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:20:04,764 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:20:04,764 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:20:04,765 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:20:04,775 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[43fff624c38849ea996c97cf97f86494]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120716200458701555000000222000]]></out_trade_no><sign><![CDATA[123B0DFF3F648C7785E029CFCA9B30F5]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207163004]]></time_expire><time_start><![CDATA[20151207162004]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:20:05,376 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[TEdIstbsBdkgZnW1]]></nonce_str>
+<sign><![CDATA[A9F61C035B16CDCA2DF6B67187154FDD]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx2015120716200592fda7e40d0149494046]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 16:38:59,176 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:38:59,206 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:38:59,207 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:38:59,208 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:38:59,220 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[b224135c17204e4d9b2715ecbbf438e0]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120716385904652162000000222000]]></out_trade_no><sign><![CDATA[347A31EA288CA5E8BAB747BA18EE24EC]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207164859]]></time_expire><time_start><![CDATA[20151207163859]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:38:59,983 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[8ZRKR085GypUWUlE]]></nonce_str>
+<sign><![CDATA[6B275BF2AFD9E93C4C13BDAAD23DF5ED]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207163859b4b2c0843f0716134396]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 16:43:38,285 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:43:38,326 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:43:38,327 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:43:38,328 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:43:38,342 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[d4745c3678ff45e88a94bb31f8118652]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120716433814038742000000222000]]></out_trade_no><sign><![CDATA[520D5844215E8BBCFBE4AF507386FE62]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207165338]]></time_expire><time_start><![CDATA[20151207164338]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:43:39,018 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[SjO3tMhiqpYr6ZEX]]></nonce_str>
+<sign><![CDATA[EA537A0B78A7A914B17B4483CBB508D7]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx2015120716433878365fd2160798138268]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 16:46:42,016 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:46:42,047 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:46:42,048 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:46:42,049 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:46:42,059 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[b30661432f53418e8f3f27a86a405d7c]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120716464185940058000000222000]]></out_trade_no><sign><![CDATA[1F738B90DB3DA4F78F6BDF19277FDFBD]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207165642]]></time_expire><time_start><![CDATA[20151207164642]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:46:42,676 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[z2zARYyp0Ip4o1n7]]></nonce_str>
+<sign><![CDATA[EB53E8334C5F042B121305EDC72BDACB]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207164642e6d31c41cd0000495756]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 16:48:58,768 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:48:58,799 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:48:58,799 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:48:58,800 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:48:58,813 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[4e9c55cc99ac433092dcde8db2aec1a0]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120716485862138655000000222000]]></out_trade_no><sign><![CDATA[66F8A847924B0D6897FCA31FF60CD790]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207165858]]></time_expire><time_start><![CDATA[20151207164858]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 16:48:59,408 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[f4mYcRKewtdIOVDK]]></nonce_str>
+<sign><![CDATA[764A1B4C26B40CF9D2B430B61ABFFF88]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207164859d2322930b40370049259]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:00:38,683 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:00:38,714 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:00:38,716 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:00:38,717 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:00:38,727 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[cabce5381918485aa7f3af57f33f230a]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120717003853521208000000222000]]></out_trade_no><sign><![CDATA[C5A1134C6BC6810174C807993EFB6EB2]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207171038]]></time_expire><time_start><![CDATA[20151207170038]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:00:39,327 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[c73dZ2yaT4XH3aTv]]></nonce_str>
+<sign><![CDATA[6A41580CFF74C68F49A86FD2FFAC2423]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207170039bf943534bf0671490196]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:05:36,972 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:05:37,002 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:05:37,003 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:05:37,004 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:08:49,901 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[091f5a9bd9834d808617c362d6c7328c]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120717053681164116000000222000]]></out_trade_no><sign><![CDATA[1E51899ED76280F07C5A57CBBC76F5A3]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207171537]]></time_expire><time_start><![CDATA[20151207170537]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:10:17,434 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:10:17,464 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:10:17,465 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:10:17,465 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:11:30,180 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[b49ea067027a427aa7d24d8a12a62476]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120717101728538146000000222000]]></out_trade_no><sign><![CDATA[FA31B6CE80F0349C0438BD267913A954]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207172017]]></time_expire><time_start><![CDATA[20151207171017]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:11:32,330 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[V3p8XpTMDhUFdqXA]]></nonce_str>
+<sign><![CDATA[05D0119A37DA03402E66FFE2E2242C24]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207171131820c074dd50272793710]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:23:21,117 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:23:21,146 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:23:21,147 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:23:21,148 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:23:25,459 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[4be88ec775f04798b8a086bd199262d5]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120717232096568425000000222000]]></out_trade_no><sign><![CDATA[AE330298E4F3BD6CF5EF633C13DB510F]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207173321]]></time_expire><time_start><![CDATA[20151207172321]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:23:26,165 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[HoRR4sGmX1NAVAP6]]></nonce_str>
+<sign><![CDATA[F9B1F89C7BB751781376583356505F2E]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx2015120717232555e3703b050631271947]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:36:39,583 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:36:39,614 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:36:39,615 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:36:39,616 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 17:53:40,995 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:53:41,025 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:53:41,026 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:53:41,027 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:53:41,037 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[3b8836000da44c9aa60fea3d3204a385]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120717534082616084000000222000]]></out_trade_no><sign><![CDATA[58FAD2D105EBF097E4E8AC393A8AC182]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207180341]]></time_expire><time_start><![CDATA[20151207175341]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 17:53:42,957 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[t2bPilvOjVo0dULN]]></nonce_str>
+<sign><![CDATA[5AE4BD36478717928DA77F0E49D2A6AA]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207175342b604d0ffb70210267084]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-07 18:01:55,567 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件AliPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 18:01:55,598 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件EPark
+请求:http://localhost
+
+
+
+
+
+2015-12-07 18:01:55,599 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件UnionPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 18:01:55,600 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：载入支付插件WeixinPay
+请求:http://localhost
+
+
+
+
+
+2015-12-07 18:01:55,613 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder request : <xml><appid><![CDATA[wx7c67eca9b231a6f0]]></appid><body><![CDATA[账户充值]]></body><mch_id><![CDATA[1253950101]]></mch_id><nonce_str><![CDATA[300b1ad630ac408d9919384666d9c472]]></nonce_str><notify_url><![CDATA[WexinCallBack]]></notify_url><out_trade_no><![CDATA[15120718015543333360000000222000]]></out_trade_no><sign><![CDATA[2917D908127493E73BFC6E2568C2F7BC]]></sign><spbill_create_ip><![CDATA[211.149.218.205]]></spbill_create_ip><time_expire><![CDATA[20151207181155]]></time_expire><time_start><![CDATA[20151207180155]]></time_start><total_fee><![CDATA[1]]></total_fee><trade_type><![CDATA[APP]]></trade_type></xml>
+请求:http://localhost
+
+
+
+
+
+2015-12-07 18:01:56,193 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:69] - 
+标题:[]无	代理:
+内容：GetPurchaseNo UnfiedOrder response :<xml><return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wx7c67eca9b231a6f0]]></appid>
+<mch_id><![CDATA[1253950101]]></mch_id>
+<nonce_str><![CDATA[y2vh7oTgsgrt8zYt]]></nonce_str>
+<sign><![CDATA[C6001C11CA5269F40190BF567D01BE7A]]></sign>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<prepay_id><![CDATA[wx20151207180155f35f4c58a90144807992]]></prepay_id>
+<trade_type><![CDATA[APP]]></trade_type>
+</xml> 
+请求:http://localhost
+
+
+
+
+

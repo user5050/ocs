@@ -1,0 +1,98 @@
+[Header]\r\n2016-07-22 09:34:00,867 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carStart?sign=b9da31d8068726bef3475cb3864591d3==>{"ParkCode":"66666666","VehicleNo":"川A58586 ","StartTime":"2016/7/22 9:33:58","ImageID":0}=>{"code":-1001007,"message":"\u7b7e\u540d\u4e0d\u6b63\u786e","timestamp":1469151247,"free_shipping_amount":30}
+请求:
+
+
+
+[Header]\r\n2016-07-22 09:42:04,384 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carStart?sign=97585bf7f4774e8b046816d196c90091==>{"ParkCode":"66666666","VehicleNo":"川A58586 ","StartTime":"2016/7/22 9:42:02","ImageID":0}=>{"code":-1001007,"message":"\u7b7e\u540d\u4e0d\u6b63\u786e","timestamp":1469151730,"free_shipping_amount":30}
+请求:
+
+
+
+[Header]\r\n2016-07-22 10:01:49,170 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carStart?sign=8d7a40c90934a60bff73f7904c046e14==>{"ParkCode":"66666666","VehicleNo":"川A58586 ","StartTime":"2016/7/22 10:01:45","ImageID":0}=>{"code":5001,"message":"\u670d\u52a1\u5668\u6570\u636e\u5f02\u5e38","detail":{"exCode":8,"url":"\/parkmall\/carStart","errfile":"\/u01\/server\/apps\/api_new\/app\/models\/park\/ParkOrder.php","errline":212,"trace":"Undefined index: card_level"}}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:12:11,501 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=fb1149f52398792f02c9fa8958f97de3==>{"ParkCode":"66666666","EventTime":"0001-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:12:17","result":[]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:14:06,526 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:14:12","result":[]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:31:38,891 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:31:45","result":[{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:48","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:50","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:50","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:50","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:51","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:51","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:51","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:51","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:51","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:52","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:52","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:52","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:52","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:53","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:53","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:53","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:11:53","type":1},{"userid":200,"carno":"aaaaaa","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-22 11:12:46","type":1}]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:33:39,800 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=90564450aebb9bc8737d127b1a51e7f1==>{"ParkCode":"66666666","EventTime":"2016-07-22 11:11:51"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:33:46","result":[]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:39:44,005 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=2d7502b19c1bbf49a2f626371c8b2a73==>{"ParkCode":"66666666","EventTime":"2002-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:39:50","result":[]}
+请求:
+
+
+
+2016-07-22 11:40:11,674 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=b1403cf429acd9f4eae0744ed3f97571==>{"ParkCode":"66666666","EventTime":"2001-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:40:18","result":[]}
+请求:
+
+
+
+2016-07-22 11:40:21,313 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=b1403cf429acd9f4eae0744ed3f97571==>{"ParkCode":"66666666","EventTime":"2001-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:40:27","result":[]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 11:40:59,695 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:41:05","result":[]}
+请求:
+
+
+
+2016-07-22 11:42:44,918 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 11:42:51","result":[]}
+请求:
+
+
+
+[Header]\r\n2016-07-22 14:03:52,812 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 14:03:59","result":[]}
+请求:
+
+
+
+2016-07-22 14:04:02,235 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.160-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-07-22 14:04:08","result":[]}
+请求:
+
+
+

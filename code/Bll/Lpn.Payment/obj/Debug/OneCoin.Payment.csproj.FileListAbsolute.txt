@@ -1,0 +1,5 @@
+D:\Project\onecoin\code\Bll\Lpn.Payment\obj\Debug\OneCoin.Payment.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Bll\Debug\OneCoin.Payment.dll
+D:\Project\onecoin\code\Bll\Debug\OneCoin.Payment.pdb
+D:\Project\onecoin\code\Bll\Lpn.Payment\obj\Debug\OneCoin.Payment.dll
+D:\Project\onecoin\code\Bll\Lpn.Payment\obj\Debug\OneCoin.Payment.pdb

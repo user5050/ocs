@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C55C8211-1A71-4EBE-A9DF-A8F39347AD07}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lpn.Service.TrdPart.Partner.Task</RootNamespace>
+    <AssemblyName>Lpn.Service.TrdPart.Partner.Task</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\ITask.cs" />
+    <Compile Include="Core\PartnerTask.cs" />
+    <Compile Include="Park\ParkFeeTask.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Helper\Lpn.Service.Helper\Lpn.Service.Helper.csproj">
+      <Project>{cab0c586-476e-4e9f-a185-1dc7dfcd2bb7}</Project>
+      <Name>Lpn.Service.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Model\Lpn.Service.Model\Lpn.Service.Model.csproj">
+      <Project>{af1a7257-4213-4b3b-8c43-c4b45ff9d76b}</Project>
+      <Name>Lpn.Service.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Lpn.Service.Bll\Lpn.Service.Bll.csproj">
+      <Project>{9191e981-f2e4-44d3-9f4f-7432e3a1f313}</Project>
+      <Name>Lpn.Service.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Lpn.Service.Cache\Lpn.Service.Cache.csproj">
+      <Project>{30dde1c2-6799-42d9-a1f9-bfbf16f99a3e}</Project>
+      <Name>Lpn.Service.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lpn.Service.TrdPart.Partner.Bll\Lpn.Service.TrdPart.Partner.Bll.csproj">
+      <Project>{fafcc444-a156-481f-9b8e-ec0d762a86df}</Project>
+      <Name>Lpn.Service.TrdPart.Partner.Bll</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

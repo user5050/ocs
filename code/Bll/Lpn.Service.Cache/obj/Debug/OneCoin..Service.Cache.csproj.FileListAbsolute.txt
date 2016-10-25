@@ -1,0 +1,17 @@
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\obj\Debug\OneCoin..Service.Cache.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Cache.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Cache.pdb
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\Lpn.Service.HttpTwoWay.Client.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Model.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\ServiceStack.Common.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\ServiceStack.Interfaces.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\ServiceStack.Redis.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\ServiceStack.Text.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\Newtonsoft.Json.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Helper.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\Lpn.Service.HttpTwoWay.Model.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\log4net.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Model.pdb
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\bin\Debug\OneCoin.Service.Helper.pdb
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\obj\Debug\OneCoin.Service.Cache.dll
+D:\Project\onecoin\code\Bll\Lpn.Service.Cache\obj\Debug\OneCoin.Service.Cache.pdb

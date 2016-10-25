@@ -1,0 +1,13 @@
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\OneCoin.Service.PostTest.exe.config
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\OneCoin.Service.PostTest.exe
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\OneCoin.Service.PostTest.pdb
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\OneCoin.Service.Helper.dll
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\log4net.dll
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\Newtonsoft.Json.dll
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Debug\OneCoin.Service.Helper.pdb
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.Form1.resources
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.Properties.Resources.resources
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.csproj.GenerateResource.Cache
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.exe
+D:\Project\onecoin\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Debug\OneCoin.Service.PostTest.pdb

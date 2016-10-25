@@ -1,0 +1,182 @@
+[Header]\r\n2016-09-23 11:35:15,572 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder?compToken=E4E831EEBFCA3738E8F9E19CD18D0280==>{"carNo":"川A11111","memberPhone":"13099996666","longitude":0.0,"latitude":0.0,"compToken":"","carWashId":1,"carType":1,"brandName":"雪弗兰","seriesName":"通用","thirdTradeNo":"160601172449888074800006430","memberPrice":23.6,"serviceType":0,"serviceId":0,"serviceTime":"","serviceAddr":"","moreRequiry":""}=>{"data":null,"msg":"车牌号不能为空","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 11:36:28,307 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder?compToken=E4E831EEBFCA3738E8F9E19CD18D0280==>{"carNo":"川A11111","memberPhone":"13099996666","longitude":0.0,"latitude":0.0,"compToken":"E4E831EEBFCA3738E8F9E19CD18D0280","carWashId":1,"carType":1,"brandName":"雪弗兰","seriesName":"通用","thirdTradeNo":"160601172449888074800006430","memberPrice":23.6,"serviceType":0,"serviceId":0,"serviceTime":"","serviceAddr":"","moreRequiry":""}=>{"data":null,"msg":"车牌号不能为空","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 11:40:15,283 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>{"carNo":"川A11111","memberPhone":"13099996666","longitude":0.0,"latitude":0.0,"compToken":"E4E831EEBFCA3738E8F9E19CD18D0280","carWashId":1,"carType":1,"brandName":"雪弗兰","seriesName":"通用","thirdTradeNo":"160601172449888074800006430","memberPrice":23.6,"serviceType":0,"serviceId":0,"serviceTime":"","serviceAddr":"","moreRequiry":""}=>{"data":null,"msg":"车牌号不能为空","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 11:42:18,477 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>{"carNo":"川A11111","memberPhone":"13099996666","longitude":0.0,"latitude":0.0,"compToken":"E4E831EEBFCA3738E8F9E19CD18D0280","carWashId":1,"carType":1,"brandName":"雪弗兰","seriesName":"通用","thirdTradeNo":"160601172449888074800006430","memberPrice":23.6,"serviceType":0,"serviceId":0,"serviceTime":"","serviceAddr":"","moreRequiry":""}=>{"data":null,"msg":"车牌号不能为空","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 13:59:07,829 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=1&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=23.6&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"下单价校验失败","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 14:02:42,245 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6234&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=55&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+2016-09-23 14:03:00,326 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6234&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=55&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 14:41:10,002 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":null,"Extra":{"Type":9,"Url":"","First":"","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:06:48,189 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":null,"Extra":{"Type":9,"Url":"","First":"","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:10:02,121 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":null,"Extra":{"Type":9,"Url":"","First":"","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:11:40,844 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":null,"Extra":{"Type":9,"Url":"","First":"尊敬的用户，您的月租会员将于7天内到期！","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"* 为保证您能持续使用月租会员服务，建议您提前续费。","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:13:34,087 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"f91ed2beabd4b24502bf296d2d79da1625d5275d9a814699471407749ba5be51","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":{"Title":"会员到期提醒","Type":-1,"Parkcode":"66666666","Content":"尊敬的用户，您的月租会员将于7天内到期，车牌：川A45XA8，停车场：66666666，到期时间：[月租到期\r\n\r\n日期]，为保证您能持续使用月租会员服务，建议您提前续费。点击一键续费！","Time":"2016-09-23 15:13:33","Viewed":"false","Url":"","SN":"0"},"Extra":{"Type":9,"Url":"http://test.wx.ebopark.com/index.php/Home/CarnoMs/index","First":"尊敬的用户，您的月租会员将于7天内到期！","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"* 为保证您能持续使用月租会员服务，建议您提前续费。","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:16:06,528 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"f91ed2beabd4b24502bf296d2d79da1625d5275d9a814699471407749ba5be51","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":{"Title":"会员到期提醒","Type":-1,"Parkcode":"66666666","Content":"尊敬的用户，您的月租会员将于7天内到期，车牌：川A45XA8，停车场：66666666，到期时间：[月租到期\r\n\r\n日期]，为保证您能持续使用月租会员服务，建议您提前续费。点击一键续费！","Time":"2016-09-23 15:16:06","Viewed":"false","Url":"","SN":"0"},"Extra":{"Type":9,"Url":"http://test.wx.ebopark.com/index.php/Home/MonthlyCars/Index","First":"尊敬的用户，您的月租会员将于7天内到期！","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"* 为保证您能持续使用月租会员服务，建议您提前续费。","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:17:31,642 [17] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"f91ed2beabd4b24502bf296d2d79da1625d5275d9a814699471407749ba5be51","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":{"Title":"会员到期提醒","Type":-1,"Parkcode":"66666666","Content":"尊敬的用户，您的月租会员将于7天内到期，车牌：川A45XA8，停车场：66666666，到期时间：2016-09-23，为保证您能持续使用月租会员服务，建议您提前续费。点击一键续费！","Time":"2016-09-23 15:17:29","Viewed":"false","Url":"","SN":"0"},"Extra":{"Type":9,"Url":"http://test.wx.ebopark.com/index.php/Home/MonthlyCars/Index","First":"尊敬的用户，您的月租会员将于7天内到期！","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"* 为保证您能持续使用月租会员服务，建议您提前续费。","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:18:52,484 [21] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：发送消息{"AndroidToken":"","IOSToken":"f91ed2beabd4b24502bf296d2d79da1625d5275d9a814699471407749ba5be51","OpenID":"oEBYnw5i07WeMoRfa-PbCPuakxYc","Payload":{"Title":"会员到期提醒","Type":402,"Parkcode":"66666666","Content":"尊敬的用户，您的月租会员将于7天内到期，车牌：川A45XA8，停车场：66666666，到期时间：2016-09-23，为保证您能持续使用月租会员服务，建议您提前续费。点击一键续费！","Time":"2016-09-23 15:18:52","Viewed":"false","Url":"401","SN":"0"},"Extra":{"Type":9,"Url":"http://test.wx.ebopark.com/index.php/Home/MonthlyCars/Index","First":"尊敬的用户，您的月租会员将于7天内到期！","Keyword1":"66666666月租会员","Keyword2":"2016-09-23","Keyword3":"","Keyword4":"","Keyword5":"","Remark":"* 为保证您能持续使用月租会员服务，建议您提前续费。","Firstcolor":"#000000","Keyword1color":"#000000","Keyword2color":"#000000","Keyword3color":"#000000","Keyword4color":"#000000","Keyword5color":"#000000","Remarkcolor":"#000000"}}
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n2016-09-23 15:53:49,543 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+2016-09-23 15:54:07,885 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 16:06:24,860 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 16:25:19,279 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 16:46:42,985 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"could not execute statement","state":"0"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-09-23 16:53:46,796 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":{"orderNo":"T092316500332016371"},"msg":"","state":"1"}
+请求:http://localhost
+
+
+
+
+
+2016-09-23 17:03:01,986 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DA11111&memberPhone=13099996666&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=6238&carType=1&brandName=%E9%9B%AA%E5%BC%97%E5%85%B0&seriesName=%E9%80%9A%E7%94%A8&thirdTradeNo=160601172449888074800006430&memberPrice=32&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"对不起，您的车辆超过当前车场今日下单最大数量","state":"0"}
+请求:http://localhost
+
+
+
+
+

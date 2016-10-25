@@ -1,0 +1,12 @@
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\obj\Debug\OneCoin.Service.Dal.csprojResolveAssemblyReference.cache
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Dal.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Dal.pdb
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\MySql.Data.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Helper.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Model.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\log4net.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\Newtonsoft.Json.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Helper.pdb
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\bin\Debug\OneCoin.Service.Model.pdb
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\obj\Debug\OneCoin.Service.Dal.dll
+D:\Project\onecoin\code\Dal\Lpn.Service.Dal\obj\Debug\OneCoin.Service.Dal.pdb

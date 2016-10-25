@@ -1,0 +1,11 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.TrdPart.MonthlySync.TEST.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.TrdPart.MonthlySync.TEST.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.TrdPart.MonthlySync.Interface.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\bin\Release\Lpn.Service.TrdPart.MonthlySync.Interface.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\obj\Release\Lpn.Service.TrdPart.MonthlySync.TEST.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\obj\Release\Lpn.Service.TrdPart.MonthlySync.TEST.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\TrdPlusIn\Lpn.Service.TrdPart.MonthlySync.TEST\obj\Release\Lpn.Service.TrdPart.MonthlySync.TEST.pdb

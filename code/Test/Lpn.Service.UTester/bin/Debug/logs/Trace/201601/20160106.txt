@@ -1,0 +1,120 @@
+﻿[Header]\r\n2016-01-06 16:41:53,135 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"0af6fa4a41bf469ab930997ebd67cf65","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306666\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222002\",\"VehicleNo\":\"川A12349\",\"TillDate\":\"2016-01-06 16:41:47\",\"RenewalMonths\":1,\"AllMoney\":1000,\"PayMoney\":108}","Time":"2016-01-06T16:41:47.7483483+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 16:44:15,104 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"9aa08b00a5c34eb1a92a6ee1eeb3283e","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306666\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222002\",\"VehicleNo\":\"川A12349\",\"TillDate\":\"2016-01-06 16:44:14\",\"RenewalMonths\":1,\"AllMoney\":1000,\"PayMoney\":108}","Time":"2016-01-06T16:44:14.4623967+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-01-06 16:55:16,694 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"b9ff8bd4d4984aaeb5d14839f076520b","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306666\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222003\",\"VehicleNo\":\"川A123BB\",\"TillDate\":\"2016-01-06 16:55:16\",\"RenewalMonths\":1,\"AllMoney\":1000,\"PayMoney\":108}","Time":"2016-01-06T16:55:16.0789642+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 16:57:00,648 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"682853f550f5437fbd04c120a3038eef","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306666\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222003\",\"VehicleNo\":\"川A123BA\",\"TillDate\":\"2016-01-06 16:57:00\",\"RenewalMonths\":1,\"AllMoney\":107,\"PayMoney\":107}","Time":"2016-01-06T16:57:00.1288014+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 16:57:26,908 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"0feb6090d78e4489ada1ed76da049ef5","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306666\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222004\",\"VehicleNo\":\"川A123BA\",\"TillDate\":\"2016-01-06 16:57:26\",\"RenewalMonths\":1,\"AllMoney\":107,\"PayMoney\":107}","Time":"2016-01-06T16:57:26.2162066+08:00","IsOneTime":true}
+返回{"State":-1001001,"Desc":"未找到类型tVPM_FeeRateTimeFix的解析类型","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 17:17:11,269 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"8c58a84866854c618ec4968ec66122f4","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:17:10\",\"RenewalMonths\":1,\"AllMoney\":107,\"PayMoney\":107}","Time":"2016-01-06T17:17:10.7749662+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 17:17:32,420 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"d94de76e69834d83a48070b886a6e307","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:17:31\",\"RenewalMonths\":1,\"AllMoney\":107,\"PayMoney\":107}","Time":"2016-01-06T17:17:31.706157+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 17:18:40,260 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"f526bf4fcdd647cd820ae7152d818c2f","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:18:39\",\"RenewalMonths\":2,\"AllMoney\":108,\"PayMoney\":108}","Time":"2016-01-06T17:18:39.7731878+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-01-06 17:19:01,855 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"df7b05013eb34f8d9a52f9874b124338","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:18:59\",\"RenewalMonths\":1,\"AllMoney\":108,\"PayMoney\":108}","Time":"2016-01-06T17:18:59.2045638+08:00","IsOneTime":true}
+返回{"State":0,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-01-06 17:19:13,333 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"d9a60278ce564b358e5b3f0ac33e8749","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:19:13\",\"RenewalMonths\":1,\"AllMoney\":108,\"PayMoney\":108}","Time":"2016-01-06T17:19:13.0142554+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-01-06 17:19:24,164 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"e91597c8dfc34dbfa1b7df415b683eaf","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:19:23\",\"RenewalMonths\":1,\"AllMoney\":108,\"PayMoney\":108}","Time":"2016-01-06T17:19:23.8357338+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+
+2016-01-06 17:33:03,919 [10] INFO  Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:79] - 
+标题:[]无	代理:
+内容：购买时段月租:请求:{"Id":"37cf49d9a64745dfabe69ba0c396d707","Sender":"","Type":17,"Data":"{\"MonthlySort\":4,\"UserName\":\"13096306665\",\"ParkCode\":\"90001\",\"OrderNo\":\"15121015370467678544000000222005\",\"VehicleNo\":\"川A123BC\",\"TillDate\":\"2016-01-06 17:33:03\",\"RenewalMonths\":1,\"AllMoney\":108,\"PayMoney\":108}","Time":"2016-01-06T17:33:03.5653998+08:00","IsOneTime":true}
+返回{"State":-1199004,"Desc":"","Result":null}
+请求:http://localhost
+
+
+
+
+

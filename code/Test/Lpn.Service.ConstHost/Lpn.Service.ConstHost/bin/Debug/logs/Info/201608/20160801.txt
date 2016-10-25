@@ -1,0 +1,364 @@
+[Header]\r\n2016-08-01 16:08:00,318 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:08:11","result":[{"userid":"200","carno":"\u7ca4B9DJ60","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"146","carno":"\u7ca4B88868","city":"\u6df1\u5733","store":"\u5b9d\u5b89\u5929\u8679\u8d2d\u7269\u4e2d\u5fc3","time":"2016-07-25 16:18:42","type":"0"},{"userid":"158","carno":"\u6fb3B34561","city":"\u5317\u4eac","store":"\u65b0\u5965\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u7ca4B77520","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u7ca4B88888","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u6e58L0VEU0","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"173","carno":"\u7ca4BB11BB","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-25 16:18:42","type":"0"},{"userid":"173","carno":"\u7ca4GGMQQ1","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-25 16:18:42","type":"0"},{"userid":"30","carno":"\u7ca4B9DJ65","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"32","carno":"\u7ca4B9DJ68","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"32","carno":"\u7ca4B9DJ67","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"200","carno":"\u7ca4B9K111","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"200","carno":"\u5dddA58585","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"31","carno":"\u7ca4B9DJ67","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"30","carno":"\u7ca4B9DJ66","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"1000071","carno":"\u5dddA11111","city":"","store":"","time":"2016-07-25 17:17:12","type":"0"},{"userid":"1000071","carno":"\u5dddA12345","city":"","store":"","time":"2016-07-25 17:28:24","type":"0"},{"userid":"1000029","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:33:31","type":"1"},{"userid":"1000029","carno":"\u7ca4B1122A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:38:32","type":"1"},{"userid":"1000029","carno":"\u7ca4B1121A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:38:34","type":"1"},{"userid":"353","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 20:07:29","type":"1"},{"userid":"353","carno":"\u7ca4B1124A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 09:40:52","type":"0"},{"userid":"173","carno":"\u7ca4AAAAAA","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-27 09:44:14","type":"0"},{"userid":"253","carno":"\u7ca4Z759F5","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 09:46:39","type":"0"},{"userid":"10002","carno":"\u9c81DDCCE4","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-27 11:38:43","type":"1"},{"userid":"212","carno":"\u9ed1B12228","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 11:39:05","type":"1"},{"userid":"123","carno":"\u7ca4B9DJ6\u6e2f","city":"","store":"","time":"2016-07-27 11:40:42","type":"0"},{"userid":"1000029","carno":"\u7ca4B1122A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 14:55:01","type":"1"},{"userid":"343","carno":"\u6842A1234A","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 15:41:40","type":"1"},{"userid":"212","carno":"\u6e58B66669","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 15:45:10","type":"1"},{"userid":"343","carno":"\u5dddB56788","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 15:50:25","type":"1"},{"userid":"212","carno":"\u7ca4B9VS75","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 16:25:38","type":"0"},{"userid":"192","carno":"\u7ca4B99999","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-27 17:11:16","type":"0"},{"userid":"212","carno":"\u7ca4B9898G","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:20:37","type":"1"},{"userid":"212","carno":"\u7ca4B98888","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:21:21","type":"1"},{"userid":"212","carno":"\u9ed1H8888\u9655","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:22:21","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D4444\u6842","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:22:57","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701E5555\u7518","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:26:31","type":"1"},{"userid":"212","carno":"\u7ca4B9VA12","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:34:20","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D44444","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:35:11","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D44444","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:35:27","type":"1"},{"userid":"212","carno":"\u9752F66666","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:41:05","type":"0"},{"userid":"10002","carno":"\u9c81H4445\u6caa","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-27 19:07:03","type":"1"},{"userid":"343","carno":"\u6e58B33333","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 19:10:39","type":"1"},{"userid":"343","carno":"\u7ca4D4444\u6e2f","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 19:10:49","type":"1"},{"userid":"1000029","carno":"\u7ca4B11111","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:29:34","type":"1"},{"userid":"353","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:29:54","type":"1"},{"userid":"1000035","carno":"\u7ca4B11299","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:31:49","type":"1"},{"userid":"1000029","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:54:06","type":"1"},{"userid":"1000029","carno":"\u7ca4B4D666","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:54:18","type":"0"},{"userid":"10002","carno":"\u664bC43CC\u53f0","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 09:57:16","type":"1"},{"userid":"192","carno":"\u4eacA88888","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 09:58:51","type":"0"},{"userid":"1000035","carno":"\u7ca4B113NP","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 10:37:47","type":"1"},{"userid":"1000029","carno":"\u7ca4B1121A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 10:49:22","type":"0"},{"userid":"10002","carno":"\u95fdDDDNE7","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 11:05:15","type":"0"},{"userid":"1000029","carno":"\u7ca4B1127A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 13:55:43","type":"0"},{"userid":"253","carno":"\u7ca4Z6778\u6fb3","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 14:50:23","type":"0"},{"userid":"253","carno":"\u4eacQ889G9","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 14:51:09","type":"0"},{"userid":"192","carno":"\u7ca4BKD350","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:16:34","type":"0"},{"userid":"187","carno":"\u7ca4ZJ499\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:36:16","type":"0"},{"userid":"187","carno":"\u7ca4BE6PN7","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:40:14","type":"1"},{"userid":"1000035","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:42:14","type":"1"},{"userid":"334","carno":"\u7ca4B2213D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-28 15:43:24","type":"1"},{"userid":"1000035","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:43:30","type":"1"},{"userid":"334","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-28 15:44:06","type":"0"},{"userid":"1000035","carno":"\u7ca4B2213D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:44:32","type":"0"},{"userid":"1000035","carno":"\u7ca4B1131E","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:45:01","type":"0"},{"userid":"10002","carno":"\u7ca4B2B34\u6fb3","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 15:47:40","type":"1"},{"userid":"212","carno":"\u6e2fA2222\u6fb3","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 16:54:20","type":"1"},{"userid":"192","carno":"\u7ca4Z9DJ6\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 17:23:17","type":"1"},{"userid":"192","carno":"\u7ca4Z9DJ6\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 17:23:40","type":"0"},{"userid":"212","carno":"\u9c81C4444\u5b81","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 17:24:51","type":"0"},{"userid":"10002","carno":"\u6d25A5678I","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 17:45:34","type":"0"},{"userid":"1000035","carno":"\u7ca4B3456D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:14:46","type":"1"},{"userid":"1000035","carno":"\u9c81CDMDDN","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:15:51","type":"1"},{"userid":"1000035","carno":"\u7ca4CNNOOP","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:16:54","type":"1"},{"userid":"1000035","carno":"\u7ca4B44344","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:17:18","type":"1"},{"userid":"341","carno":"\u7ca4OXNNMM","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:17:35","type":"1"},{"userid":"341","carno":"\u7ca4C6657F","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:23:37","type":"0"},{"userid":"187","carno":"\u7ca4BGP58Q","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 09:59:47","type":"1"},{"userid":"187","carno":"\u7ca4ZK596\u6fb3","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:01:53","type":"1"},{"userid":"187","carno":"\u7ca4BAD350","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:02:39","type":"1"},{"userid":"187","carno":"\u7ca4BKB240","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:19:56","type":"1"},{"userid":"187","carno":"\u7ca4GDH848","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:29:13","type":"0"},{"userid":"334","carno":"\u7ca4C2222E","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-29 11:08:41","type":"0"},{"userid":"1000032","carno":"\u7ca4B0Q50L","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:08:59","type":"0"},{"userid":"1000035","carno":"\u7ca4Q7455E","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:09:19","type":"1"},{"userid":"1000035","carno":"\u7ca4C3333D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:10:02","type":"0"},{"userid":"334","carno":"\u7ca4B2221D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-29 11:33:03","type":"1"},{"userid":"1000032","carno":"\u7ca4BBD32X","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 13:42:23","type":"1"},{"userid":"1000032","carno":"\u7ca4BBD32X","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:02:15","type":"0"},{"userid":"1000032","carno":"\u7ca4BFF737","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:27:05","type":"1"},{"userid":"1000032","carno":"\u7ca4BH8HFH","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:27:18","type":"1"},{"userid":"10002","carno":"\u6d25K5678I","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-29 14:47:11","type":"1"},{"userid":"343","carno":"\u7ca4B8888T","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-29 16:00:19","type":"1"},{"userid":"341","carno":"\u7ca4B45555","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 16:20:13","type":"1"},{"userid":"343","carno":"\u7ca4B8888T","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-29 17:02:50","type":"0"},{"userid":"1000032","carno":"\u7ca4B273QG","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-08-01 09:10:36","type":"1"},{"userid":"1000032","carno":"\u53f0BGMQCR","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-08-01 10:58:04","type":"1"},{"userid":"334","carno":"\u7ca4B2221D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-08-01 11:09:50","type":"1"}]}
+请求:
+
+
+
+2016-08-01 16:08:32,886 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=5c6f540d1b9ba19d0519b9d000c583b3==>{"ParkCode":"66666666","EventTime":"2016-08-01 15:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:08:44","result":[{"userid":"47000003","carno":"\u5dddA32326","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 15:52:12","type":"1"},{"userid":"47000003","carno":"\u5dddA2345E","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:06:58","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:09:02,201 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ff6e994506f1539124fb9d8b2da9611a==>{"ParkCode":"66666666","EventTime":"2016-08-01 14:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:09:14","result":[{"userid":"341","carno":"\u7ca4D6647H","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-08-01 14:33:32","type":"0"},{"userid":"47000003","carno":"\u5dddA32326","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 15:52:12","type":"1"},{"userid":"47000003","carno":"\u5dddA2345E","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:06:58","type":"0"}]}
+请求:
+
+
+
+[Header]\r\n2016-08-01 16:18:24,477 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=e2950ca7a630ea867bf96fa079a72772==>{"ParkCode":"66666666","EventTime":"2000-01-01 00:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:18:36","result":[{"userid":"200","carno":"\u7ca4B9DJ60","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"146","carno":"\u7ca4B88868","city":"\u6df1\u5733","store":"\u5b9d\u5b89\u5929\u8679\u8d2d\u7269\u4e2d\u5fc3","time":"2016-07-25 16:18:42","type":"0"},{"userid":"158","carno":"\u6fb3B34561","city":"\u5317\u4eac","store":"\u65b0\u5965\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u7ca4B77520","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u7ca4B88888","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"185","carno":"\u6e58L0VEU0","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"173","carno":"\u7ca4BB11BB","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-25 16:18:42","type":"0"},{"userid":"173","carno":"\u7ca4GGMQQ1","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-25 16:18:42","type":"0"},{"userid":"30","carno":"\u7ca4B9DJ65","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"32","carno":"\u7ca4B9DJ68","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"32","carno":"\u7ca4B9DJ67","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"200","carno":"\u7ca4B9K111","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"200","carno":"\u5dddA58585","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-25 16:18:42","type":"0"},{"userid":"31","carno":"\u7ca4B9DJ67","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"30","carno":"\u7ca4B9DJ66","city":"","store":"","time":"2016-07-25 16:18:42","type":"0"},{"userid":"1000071","carno":"\u5dddA11111","city":"","store":"","time":"2016-07-25 17:17:12","type":"0"},{"userid":"1000071","carno":"\u5dddA12345","city":"","store":"","time":"2016-07-25 17:28:24","type":"0"},{"userid":"1000029","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:33:31","type":"1"},{"userid":"1000029","carno":"\u7ca4B1122A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:38:32","type":"1"},{"userid":"1000029","carno":"\u7ca4B1121A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 19:38:34","type":"1"},{"userid":"353","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-26 20:07:29","type":"1"},{"userid":"353","carno":"\u7ca4B1124A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 09:40:52","type":"0"},{"userid":"173","carno":"\u7ca4AAAAAA","city":"\u6df1\u5733","store":"\u4e1c\u73af\u5929\u86791","time":"2016-07-27 09:44:14","type":"0"},{"userid":"253","carno":"\u7ca4Z759F5","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 09:46:39","type":"0"},{"userid":"10002","carno":"\u9c81DDCCE4","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-27 11:38:43","type":"1"},{"userid":"212","carno":"\u9ed1B12228","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 11:39:05","type":"1"},{"userid":"123","carno":"\u7ca4B9DJ6\u6e2f","city":"","store":"","time":"2016-07-27 11:40:42","type":"0"},{"userid":"1000029","carno":"\u7ca4B1122A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 14:55:01","type":"1"},{"userid":"343","carno":"\u6842A1234A","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 15:41:40","type":"1"},{"userid":"212","carno":"\u6e58B66669","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 15:45:10","type":"1"},{"userid":"343","carno":"\u5dddB56788","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 15:50:25","type":"1"},{"userid":"212","carno":"\u7ca4B9VS75","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 16:25:38","type":"0"},{"userid":"192","carno":"\u7ca4B99999","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-27 17:11:16","type":"0"},{"userid":"212","carno":"\u7ca4B9898G","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:20:37","type":"1"},{"userid":"212","carno":"\u7ca4B98888","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:21:21","type":"1"},{"userid":"212","carno":"\u9ed1H8888\u9655","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:22:21","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D4444\u6842","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:22:57","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701E5555\u7518","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 17:26:31","type":"1"},{"userid":"212","carno":"\u7ca4B9VA12","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:34:20","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D44444","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:35:11","type":"1"},{"userid":"212","carno":"\u53f0\u6e7e\u7701D44444","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:35:27","type":"1"},{"userid":"212","carno":"\u9752F66666","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-27 18:41:05","type":"0"},{"userid":"10002","carno":"\u9c81H4445\u6caa","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-27 19:07:03","type":"1"},{"userid":"343","carno":"\u6e58B33333","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 19:10:39","type":"1"},{"userid":"343","carno":"\u7ca4D4444\u6e2f","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-27 19:10:49","type":"1"},{"userid":"1000029","carno":"\u7ca4B11111","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:29:34","type":"1"},{"userid":"353","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:29:54","type":"1"},{"userid":"1000035","carno":"\u7ca4B11299","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:31:49","type":"1"},{"userid":"1000029","carno":"\u7ca4B1123A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:54:06","type":"1"},{"userid":"1000029","carno":"\u7ca4B4D666","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 09:54:18","type":"0"},{"userid":"10002","carno":"\u664bC43CC\u53f0","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 09:57:16","type":"1"},{"userid":"192","carno":"\u4eacA88888","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 09:58:51","type":"0"},{"userid":"1000035","carno":"\u7ca4B113NP","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 10:37:47","type":"1"},{"userid":"1000029","carno":"\u7ca4B1121A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 10:49:22","type":"0"},{"userid":"10002","carno":"\u95fdDDDNE7","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 11:05:15","type":"0"},{"userid":"1000029","carno":"\u7ca4B1127A","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 13:55:43","type":"0"},{"userid":"253","carno":"\u7ca4Z6778\u6fb3","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 14:50:23","type":"0"},{"userid":"253","carno":"\u4eacQ889G9","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 14:51:09","type":"0"},{"userid":"192","carno":"\u7ca4BKD350","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:16:34","type":"0"},{"userid":"187","carno":"\u7ca4ZJ499\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:36:16","type":"0"},{"userid":"187","carno":"\u7ca4BE6PN7","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 15:40:14","type":"1"},{"userid":"1000035","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:42:14","type":"1"},{"userid":"334","carno":"\u7ca4B2213D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-28 15:43:24","type":"1"},{"userid":"1000035","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:43:30","type":"1"},{"userid":"334","carno":"\u7ca4B2215D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-28 15:44:06","type":"0"},{"userid":"1000035","carno":"\u7ca4B2213D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:44:32","type":"0"},{"userid":"1000035","carno":"\u7ca4B1131E","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 15:45:01","type":"0"},{"userid":"10002","carno":"\u7ca4B2B34\u6fb3","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 15:47:40","type":"1"},{"userid":"212","carno":"\u6e2fA2222\u6fb3","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 16:54:20","type":"1"},{"userid":"192","carno":"\u7ca4Z9DJ6\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 17:23:17","type":"1"},{"userid":"192","carno":"\u7ca4Z9DJ6\u6e2f","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-28 17:23:40","type":"0"},{"userid":"212","carno":"\u9c81C4444\u5b81","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 17:24:51","type":"0"},{"userid":"10002","carno":"\u6d25A5678I","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-28 17:45:34","type":"0"},{"userid":"1000035","carno":"\u7ca4B3456D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:14:46","type":"1"},{"userid":"1000035","carno":"\u9c81CDMDDN","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:15:51","type":"1"},{"userid":"1000035","carno":"\u7ca4CNNOOP","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:16:54","type":"1"},{"userid":"1000035","carno":"\u7ca4B44344","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:17:18","type":"1"},{"userid":"341","carno":"\u7ca4OXNNMM","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:17:35","type":"1"},{"userid":"341","carno":"\u7ca4C6657F","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-28 19:23:37","type":"0"},{"userid":"187","carno":"\u7ca4BGP58Q","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 09:59:47","type":"1"},{"userid":"187","carno":"\u7ca4ZK596\u6fb3","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:01:53","type":"1"},{"userid":"187","carno":"\u7ca4BAD350","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:02:39","type":"1"},{"userid":"187","carno":"\u7ca4BKB240","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:19:56","type":"1"},{"userid":"187","carno":"\u7ca4GDH848","city":"\u6df1\u5733","store":"\u521b\u4e1a\u5929\u8679","time":"2016-07-29 10:29:13","type":"0"},{"userid":"334","carno":"\u7ca4C2222E","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-29 11:08:41","type":"0"},{"userid":"1000032","carno":"\u7ca4B0Q50L","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:08:59","type":"0"},{"userid":"1000035","carno":"\u7ca4Q7455E","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:09:19","type":"1"},{"userid":"1000035","carno":"\u7ca4C3333D","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 11:10:02","type":"0"},{"userid":"334","carno":"\u7ca4B2221D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-07-29 11:33:03","type":"1"},{"userid":"1000032","carno":"\u7ca4BBD32X","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 13:42:23","type":"1"},{"userid":"1000032","carno":"\u7ca4BBD32X","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:02:15","type":"0"},{"userid":"1000032","carno":"\u7ca4BFF737","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:27:05","type":"1"},{"userid":"1000032","carno":"\u7ca4BH8HFH","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 14:27:18","type":"1"},{"userid":"10002","carno":"\u6d25K5678I","city":"\u5357\u660c","store":"\u4eac\u4e1c\u5929\u8679","time":"2016-07-29 14:47:11","type":"1"},{"userid":"343","carno":"\u7ca4B8888T","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-29 16:00:19","type":"1"},{"userid":"341","carno":"\u7ca4B45555","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-07-29 16:20:13","type":"1"},{"userid":"343","carno":"\u7ca4B8888T","city":"\u60e0\u5dde","store":"\u4e09\u73af\u5929\u8679","time":"2016-07-29 17:02:50","type":"0"},{"userid":"1000032","carno":"\u7ca4B273QG","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-08-01 09:10:36","type":"1"},{"userid":"1000032","carno":"\u53f0BGMQCR","city":"\u6df1\u5733","store":"\u540e\u6d77\u5929\u8679","time":"2016-08-01 10:58:04","type":"1"},{"userid":"334","carno":"\u7ca4B2221D","city":"\u6df1\u5733","store":"\u6c99\u6cb3\u5929\u8679","time":"2016-08-01 11:09:50","type":"1"}]}
+请求:
+
+
+
+2016-08-01 16:18:40,197 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:18:52","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:27,560 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:39","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:31,029 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:43","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:31,904 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:44","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:32,826 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:44","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:33,951 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:46","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:35,092 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:47","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:36,577 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:48","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:40,375 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:52","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:41,406 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:53","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:42,656 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:54","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:43,797 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:55","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:45,361 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:19:57","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:54,660 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:06","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:55,925 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:08","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:57,004 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:09","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:58,158 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:10","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:19:59,111 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:11","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:01,098 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:12","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:02,348 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:14","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:03,926 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:16","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:04,692 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:16","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:05,989 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:18","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:08,631 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:20","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:10,100 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:22","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:11,902 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:24","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:13,152 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:25","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:14,335 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:26","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:15,509 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:27","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:16,572 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:28","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:18,041 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:29","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:19,901 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:31","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:21,854 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:33","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:22,839 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:34","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:23,964 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:36","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:26,214 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:38","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:27,683 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:39","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:28,714 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:40","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:29,887 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:42","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:31,043 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:43","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:32,146 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:44","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:33,286 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:45","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:34,365 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=ee0481a9510edd03c36bbb88f5074039==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:00:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:46","result":[{"userid":"47000003","carno":"\u5dddA2345H","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:09:47","type":"0"},{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:44,137 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=948d42c53c00569fdf235d7e71770ef0==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:15:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:56","result":[{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:45,840 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=948d42c53c00569fdf235d7e71770ef0==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:15:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:57","result":[{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:47,122 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=948d42c53c00569fdf235d7e71770ef0==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:15:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:20:59","result":[{"userid":"47000003","carno":"\u5dddA1234A","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:16","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:48,404 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=948d42c53c00569fdf235d7e71770ef0==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:15:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:21:00","result":[{"userid":"47000003","carno":"\u5dddA1234B","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:59","type":"0"}]}
+请求:
+
+
+
+2016-08-01 16:20:49,966 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[192.168.0.117-test-]无	代理:
+内容：天虹上报Query：http://hlj.dev.rainbowcn.net/parkmall/carList?sign=948d42c53c00569fdf235d7e71770ef0==>{"ParkCode":"66666666","EventTime":"2016-08-01 16:15:00"}=>{"code":200,"message":"success","free_shipping_amount":30,"timestamp":"2016-08-01 16:21:02","result":[{"userid":"47000003","carno":"\u5dddA1234B","city":"\u6210\u90fd","store":"\u9ad8\u65b0\u5929\u8679","time":"2016-08-01 16:20:59","type":"0"}]}
+请求:
+
+
+

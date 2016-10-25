@@ -1,0 +1,99 @@
+[Header]\r\n2015-12-16 15:04:59,531 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/16 15:04:59	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 51
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+2015-12-16 15:05:34,383 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/16 15:05:34	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 51
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+2015-12-16 15:05:41,174 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/16 15:05:41	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.PayBase.GetConfig(String parkCode, PaymentPurpose purpose, Boolean isWxOpen) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\PayBase.cs:行号 34
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 51
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-16 15:19:09,589 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/16 15:19:09	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SecurityUtil.SignBySoft(RSACryptoServiceProvider provider, Byte[] data) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SecurityUtil.cs:行号 56
+   在 upacp_sdk_net.com.unionpay.sdk.SDKUtil.Sign(Dictionary`2 data, Encoding encoding, String pfx, String pfxPwd) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKUtil.cs:行号 37
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 81
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+2015-12-16 15:19:15,087 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/16 15:19:15	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 upacp_sdk_net.com.unionpay.sdk.SecurityUtil.SignBySoft(RSACryptoServiceProvider provider, Byte[] data) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SecurityUtil.cs:行号 56
+   在 upacp_sdk_net.com.unionpay.sdk.SDKUtil.Sign(Dictionary`2 data, Encoding encoding, String pfx, String pfxPwd) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKUtil.cs:行号 37
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 81
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-16 17:38:26,285 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.GetPurchaseNo(PurchaseReq req, ref PurchaseRes res), ErrMsg:{0}	时间:2015/12/16 17:38:26	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 170
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.MakeSign(PayConfig payConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 220
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 134
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA26F143-405B-4128-987A-BCFC71419108}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OneCoin.Service.UTester</RootNamespace>
+    <AssemblyName>OneCoin.Service.UTester</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Online|AnyCPU'">
+    <OutputPath>bin\Online\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\depedence\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\depedence\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\depedence\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PCE.Model">
+      <HintPath>..\..\..\depedence\PCE.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="PCE.Notification">
+      <HintPath>..\..\..\depedence\PCE.Notification.dll</HintPath>
+    </Reference>
+    <Reference Include="Qiniu.4.0, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\depedence\Qiniu.4.0.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common">
+      <HintPath>..\..\..\depedence\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces">
+      <HintPath>..\..\..\depedence\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Redis">
+      <HintPath>..\..\..\depedence\ServiceStack.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text">
+      <HintPath>..\..\..\depedence\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="Banner\SysBannerTest.cs" />
+    <Compile Include="Coupon\CouponV2Test.cs" />
+    <Compile Include="Coupon\CouponTest.cs" />
+    <Compile Include="Message\MessageTest.cs" />
+    <Compile Include="Monthly\MonthlyTest.cs" />
+    <Compile Include="Orders\OrdersTest.cs" />
+    <Compile Include="Orders\PaymentTest.cs" />
+    <Compile Include="Sms\SmsTest.cs" />
+    <Compile Include="Sys\SysItemCodeTest.cs" />
+    <Compile Include="TestBase.cs" />
+    <Compile Include="TestConfig.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrdPart\PartnerServiceTest.cs" />
+    <Compile Include="TrdPart\TrdPartTest.cs" />
+    <Compile Include="UnitTest2.cs" />
+    <Compile Include="User\SysUserTest.cs" />
+    <Compile Include="User\WalletTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Api\Lpn.Service.Api\OneCoin.Service.Api.csproj">
+      <Project>{beeceef5-88fa-4451-a90a-2159c083c654}</Project>
+      <Name>OneCoin.Service.Api</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Bll\Lpn.Payment\OneCoin.Payment.csproj">
+      <Project>{41e539af-12bb-42fc-951e-aa3571369d54}</Project>
+      <Name>OneCoin.Payment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Bll\Lpn.Service.Bll\OneCoin.Service.Bll.csproj">
+      <Project>{9191e981-f2e4-44d3-9f4f-7432e3a1f313}</Project>
+      <Name>OneCoin.Service.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Bll\Lpn.Service.Cache\OneCoin..Service.Cache.csproj">
+      <Project>{30dde1c2-6799-42d9-a1f9-bfbf16f99a3e}</Project>
+      <Name>OneCoin..Service.Cache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dal\Lpn.Service.Dal\OneCoin.Service.Dal.csproj">
+      <Project>{a91f9293-212d-4341-ae4e-eda3ed98f505}</Project>
+      <Name>OneCoin.Service.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Helper\Lpn.Service.Helper\OneCoin.Service.Helper.csproj">
+      <Project>{cab0c586-476e-4e9f-a185-1dc7dfcd2bb7}</Project>
+      <Name>OneCoin.Service.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Helper\QiNiuTool\QiNiuTool.csproj">
+      <Project>{32f2da43-3197-41f0-acd2-3095e9d369ed}</Project>
+      <Name>QiNiuTool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Model\Lpn.Service.Model\OneCoin.Service.Model.csproj">
+      <Project>{af1a7257-4213-4b3b-8c43-c4b45ff9d76b}</Project>
+      <Name>OneCoin.Service.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

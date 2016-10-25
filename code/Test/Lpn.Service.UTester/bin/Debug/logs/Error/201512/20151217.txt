@@ -1,0 +1,173 @@
+[Header]\r\n[Footer]\r\n[Header]\r\n2015-12-17 16:22:49,692 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool UnionPay.Query(PurchaseQueryReq req, ref PurchaseQueryRes res)	时间:2015/12/17 16:22:49	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 215
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-17 16:29:38,556 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.Query(PurchaseReq req, ref PurchaseRes res)	时间:2015/12/17 16:29:38	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 41
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2015-12-17 16:30:17,359 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.Query(PurchaseReq req, ref PurchaseRes res)	时间:2015/12/17 16:30:17	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 41
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2015-12-17 16:31:22,695 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.Query(PurchaseReq req, ref PurchaseRes res)	时间:2015/12/17 16:31:22	代理:
+内容：Message:
+未将对象引用设置到对象的实例。
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 41
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-12-17 16:37:59,166 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/17 16:37:59	代理:
+内容：Message:
+找不到申请的对象。
+
+StackTrace:
+   在 System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   在 System.Security.Cryptography.X509Certificates.X509Utils._QueryCertBlobType(Byte[] rawData)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromBlob(Byte[] rawData, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(Byte[] rawData)
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetValidateProviderFromPath(String publicCer) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 51
+   在 upacp_sdk_net.com.unionpay.sdk.SDKUtil.Validate(Dictionary`2 data, Encoding encoding, String publicCer) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKUtil.cs:行号 64
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 92
+Source:
+mscorlib
+
+请求:http://localhost
+
+
+
+
+
+2015-12-17 16:39:03,899 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]请求失败	时间:2015/12/17 16:39:03	代理:
+内容：Message:
+找不到申请的对象。
+
+StackTrace:
+   在 System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   在 System.Security.Cryptography.X509Certificates.X509Utils._QueryCertBlobType(Byte[] rawData)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromBlob(Byte[] rawData, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(Byte[] rawData)
+   在 upacp_sdk_net.com.unionpay.sdk.CertUtil.GetValidateProviderFromPath(String publicCer) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\CertUtil.cs:行号 51
+   在 upacp_sdk_net.com.unionpay.sdk.SDKUtil.Validate(Dictionary`2 data, Encoding encoding, String publicCer) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\upacp_sdk_net\com\unionpay\sdk\SDKUtil.cs:行号 64
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.GetPurchaseNo(PurchaseReq req, PurchaseRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 92
+Source:
+mscorlib
+
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2015-12-17 16:43:30,552 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool UnionPay.Query(PurchaseQueryReq req, ref PurchaseQueryRes res)	时间:2015/12/17 16:43:30	代理:
+内容：Message:
+该字符串未被识别为有效的 DateTime。
+StackTrace:
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s)
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 226
+Source:
+mscorlib
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2015-12-17 16:44:14,161 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool UnionPay.Query(PurchaseQueryReq req, ref PurchaseQueryRes res)	时间:2015/12/17 16:44:14	代理:
+内容：Message:
+该字符串未被识别为有效的 DateTime。
+StackTrace:
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s)
+   在 Lpn.Payment.Plugins.UnionPay5.UnionPay.Query(PurchaseQueryReq req, PurchaseQueryRes& res) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\UnionPay5\UnionPay.cs:行号 226
+Source:
+mscorlib
+
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-12-17 17:10:37,461 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]bool WeixinPay.CancelOrderQuery(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/12/17 17:10:37	代理:
+内容：Message:
+WxPayData内部含有值为null的字段!
+StackTrace:
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.ToUrl() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 170
+   在 Lpn.Payment.Plugins.Weixin.WxPayData.MakeSign(PayConfig payConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\Data.cs:行号 220
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrderQuery(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 310
+Source:
+Lpn.Payment
+
+请求:http://localhost
+
+
+
+
+
+2015-12-17 17:11:27,618 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:55] - 
+标题:[]HttpService	时间:2015/12/17 17:11:27	代理:
+内容：Message:
+数组不得为空或为 null。
+参数名: rawData
+StackTrace:
+   在 System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromBlob(Byte[] rawData, Object password, X509KeyStorageFlags keyStorageFlags)
+   在 System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(Byte[] rawData, String password)
+   在 Lpn.Payment.Plugins.Weixin.HttpService.Post(String xml, String url, Boolean isUseCert, Int32 timeout, PayConfig appConfig) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\HttpService.cs:行号 68
+Source:
+mscorlib
+
+请求:http://localhost
+
+
+
+
+

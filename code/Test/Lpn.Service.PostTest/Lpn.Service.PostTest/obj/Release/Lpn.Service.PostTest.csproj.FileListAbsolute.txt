@@ -1,0 +1,13 @@
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Lpn.Service.PostTest.exe.config
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Lpn.Service.PostTest.exe
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Lpn.Service.PostTest.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Lpn.Service.Helper.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\log4net.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Newtonsoft.Json.dll
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\bin\Release\Lpn.Service.Helper.pdb
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.csprojResolveAssemblyReference.cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.Form1.resources
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.Properties.Resources.resources
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.csproj.GenerateResource.Cache
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.exe
+D:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Test\Lpn.Service.PostTest\Lpn.Service.PostTest\obj\Release\Lpn.Service.PostTest.pdb

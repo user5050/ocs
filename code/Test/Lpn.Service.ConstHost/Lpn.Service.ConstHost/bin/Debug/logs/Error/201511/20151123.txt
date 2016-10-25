@@ -1,0 +1,435 @@
+2015-11-23 16:10:26,772 [21] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:10:26	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+[Header]\r\n2015-11-23 16:19:55,854 [20] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:19:55	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 16:19:55,878 [17] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:19:55	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+[Header]\r\n2015-11-23 16:36:37,859 [11] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行预支付订单清理工作	时间:2015/11/23 16:36:34	代理:
+内容：Message:
+Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+StackTrace:
+   在 MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   在 MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.Driver.LoadCharacterSets(MySqlConnection connection)
+   在 MySql.Data.MySqlClient.Driver.Configure(MySqlConnection connection)
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 Lpn.Service.Dal.Utility.DbHelper.PrepareCommand(MySqlCommand cmd, MySqlConnection conn, MySqlTransaction trans, CommandType cmdType, String cmdText, MySqlParameter[] cmdParms) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 218
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteDataSetF(MySqlConnection conn, CommandType cmdType, String cmdText, Boolean isTransaction, IList commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 384
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteDataTable(String connectionString, String cmdText, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 457
+   在 Lpn.Service.Dal.Dal.Orders.OrdersPreDal.GetUnConfirmOrders(Int32 orderNumPerTime, DateTime endTime) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersPreDalExt.cs:行号 106
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.GetUnConfirmOrders(Int32 orderNumPerTime, DateTime endTime) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 145
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.RunClear(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 50
+Source:
+MySql.Data
+Message:
+Timeout in IO operation
+StackTrace:
+   在 MySql.Data.MySqlClient.TimedStream.StopTimer()
+   在 MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   在 MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+Source:
+MySql.Data
+
+请求:
+
+
+
+[Header]\r\n2015-11-23 16:38:46,323 [11] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:38:46	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 16:38:46,323 [12] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:38:46	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 16:43:46,747 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:43:46	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 16:48:47,317 [16] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 16:48:47	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:10:47,944 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:10:47	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:10:47,973 [16] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:10:47	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:15:48,345 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:15:48	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:20:48,915 [15] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:20:48	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+[Header]\r\n2015-11-23 17:39:03,945 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:39:03	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:39:03,945 [12] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:39:03	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+[Header]\r\n2015-11-23 17:42:41,294 [12] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:42:41	代理:
+内容：Message:
+Duplicate entry '201511101333114978611105_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:42:41,414 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:42:41	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:47:41,908 [12] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:47:41	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+
+2015-11-23 17:52:42,439 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]支付成功后待处理异常	时间:2015/11/23 17:52:42	代理:
+内容：Message:
+Duplicate entry '201511061110246734007517_000000140' for key 'PRIMARY'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(MySqlConnection conn, String cmdText, Boolean isTransaction, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 54
+   在 Lpn.Service.Dal.Dal.Orders.OrdersRecycleDal.Insert(MySqlConnection conn, OrdersPreDb ordersrecycle) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Orders\OrdersRecycleDalExt.cs:行号 36
+   在 Lpn.Service.Bll.Logic.Orders.OrdersPreBll.MoveToRecycle(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\OrdersPreBll.cs:行号 169
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderPreProccess.OrderPreProccessBll.Proccess(OrdersPreDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderPreProccess\OrderPreProccessBll.cs:行号 62
+Source:
+MySql.Data
+
+请求:
+
+
+

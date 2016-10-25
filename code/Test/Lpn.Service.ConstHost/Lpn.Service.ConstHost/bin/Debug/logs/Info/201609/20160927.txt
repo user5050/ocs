@@ -1,0 +1,21 @@
+[Header]\r\n2016-09-27 16:25:02,349 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：同步活动信息输入字符串的格式不正确。:杞胯溅:5615
+请求:
+
+
+
+[Header]\r\n2016-09-27 16:49:06,583 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DARE455&memberPhone=13096306603&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=7279&carType=1&brandName=&seriesName=&thirdTradeNo=160927164520190757300006200&memberPrice=15&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"对不起，您的车辆超过当前车场今日下单最大数量","state":"0"}
+请求:
+
+
+
+[Header]\r\n2016-09-27 16:55:37,252 [9] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:90] - 
+标题:[169.254.152.134-test-]无	代理:
+内容：优快报上报Query：http://118.123.249.87:8080/third/service/gorder==>carNo=%E5%B7%9DARE455&memberPhone=13096306603&longitude=0&latitude=0&compToken=E4E831EEBFCA3738E8F9E19CD18D0280&carWashId=7279&carType=1&brandName=&seriesName=&thirdTradeNo=160927164520190757300006200&memberPrice=15&serviceType=0&serviceId=0&serviceTime=&serviceAddr=&moreRequiry==>{"data":null,"msg":"对不起，您的车辆超过当前车场今日下单最大数量","state":"0"}
+请求:
+
+
+

@@ -1,0 +1,25 @@
+[Header]\r\n2016-02-26 13:48:30,186 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]尝试更新首次绑定车牌信息	时间:2016/2/26 13:48:30	代理:
+内容：Message:
+Unknown column 'BindCarTime' in 'where clause'
+StackTrace:
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Lpn.Service.Dal.Utility.DbHelper.ExecuteNonQuery(String connectionString, String cmdText, MySqlParameter[] commandParameters) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Utility\DbHelper.cs:行号 44
+   在 Lpn.Service.Dal.Dal.Sys.SysUserDal.TrySaveBindCarTime(Int32 userId, DateTime bindTime) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Dal\Lpn.Service.Dal\Dal\Sys\SysUserDalExt.cs:行号 174
+   在 Lpn.Service.Bll.Logic.SysUser.SysUserBll.TrySaveBindCarTime(Int32 ownerId, DateTime dateTime) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\SysUser\SysUserBll.cs:行号 494
+Source:
+MySql.Data
+
+请求:http://localhost
+
+
+
+
+

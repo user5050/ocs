@@ -1,0 +1,99 @@
+[Header]\r\n2016-10-13 10:41:54,753 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476326514&sid=151&key=daa04a48a5ec9a274256b26951aa10e1==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+2016-10-13 10:41:55,422 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476326515&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=7ce78b6a12896ae28fa2d660aaec00d0==>=>{"errorNo":"0","msg":"操作成功,当前订单号： 14763265201297","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+[Footer]\r\n[Header]\r\n2016-10-13 10:52:34,110 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476327153&sid=151&key=362974912767e6c6f0e40f5239bbd9e1==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+2016-10-13 10:54:13,963 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476327253&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=878e1e85b9ceda7c7581be7af45ebe44==>=>{"errorNo":"0","msg":"订单已经存在，内容为：亚特兰蒂斯（10.1-10.7），订单号：14763265201297。","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 10:57:26,204 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476327445&sid=151&key=6185c6118a5f5e9387f357f9678817a1==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+2016-10-13 10:57:30,108 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476327449&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=014b939c00be3ace390639c5a83cbe0c==>=>{"errorNo":"0","msg":"订单已经存在，内容为：亚特兰蒂斯（10.1-10.7），订单号：14763265201297。","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 10:59:33,979 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476327573&sid=151&key=c887b23441a5b62c20c0806218933b62==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+
+2016-10-13 10:59:46,427 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476327586&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=db00f95125bc0fb1434666f2d368cb12==>=>{"errorNo":"0","msg":"订单已经存在，内容为：亚特兰蒂斯（10.1-10.7），订单号：14763265201297。","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+2016-10-13 10:59:59,482 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476327599&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=063471b073bab107c1a5cd4f758960cd==>=>{"errorNo":"0","msg":"订单已经存在，内容为：亚特兰蒂斯（10.1-10.7），订单号：14763265201297。","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+2016-10-13 11:00:06,388 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/addOrder?username=E%E6%B3%8A&time=1476327606&tid=1424&num=1&name=%E6%B5%8B%E8%AF%95&idcard=&travelDates=&is_payment=1&price=&apiOrderId=13096306603&phone=13096306603&needmsg=0&key=aa26dee4e558da13a4038298451a91ec==>=>{"errorNo":"0","msg":"订单已经存在，内容为：亚特兰蒂斯（10.1-10.7），订单号：14763265201297。","code":"","orderid":"14763265201297"}
+请求:http://localhost
+
+
+
+
+
+[Header]\r\n2016-10-13 11:01:35,467 [10] DEBUG Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:92] - 
+标题:[169.254.152.134-online-]无	代理:
+内容：西晨上报Query：http://www.028xcpw.com/dlapi/getTicketList?username=E%E6%B3%8A&time=1476327695&sid=151&key=14c8e005c2d341904742b7dd28c9d17b==>=>[{"tid":"1424","tname":"亚特兰蒂斯（10.1-10.7）","chengben":"15","menshijia":"120","needidcard":"0","dianzipiao":"0","scenicName":"新津亚特兰蒂斯","cityName":"成都市"}]
+请求:http://localhost
+
+
+
+
+

@@ -1,0 +1,295 @@
+[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-06 14:03:36,096 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行任务订单任务异常	时间:2015/11/6 14:03:35	代理:
+内容：Message:
+发生一个或多个错误。
+StackTrace:
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.Run(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 43
+Source:
+mscorlib
+Message:
+未实现该方法或操作。
+StackTrace:
+   在 Lpn.Service.Bll.Notification.NotificationHelper.SendForOrderProccessed(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationHelper.cs:行号 16
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrderProccess.OrderProccessBll.Proccess(OrdersSuccesDb order) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrderProccess\OrderProccessBll.cs:行号 50
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.<>c__DisplayClass6.<Run>b__2() 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 39
+   在 System.Threading.Tasks.Task.InnerInvoke()
+   在 System.Threading.Tasks.Task.Execute()
+Source:
+Lpn.Service.Bll
+
+请求:
+
+
+
+[Header]\r\n2015-11-06 14:20:26,128 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行任务订单任务异常	时间:2015/11/6 14:20:25	代理:
+内容：Message:
+正在中止线程。
+StackTrace:
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.Run(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 47
+Source:
+mscorlib
+
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-06 14:46:19,180 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行任务订单任务异常	时间:2015/11/6 14:46:18	代理:
+内容：Message:
+正在中止线程。
+StackTrace:
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.Run(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 47
+Source:
+mscorlib
+
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-06 15:03:43,961 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:03:43	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:03:49,055 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:03:49	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:03:54,242 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:03:54	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:03:59,279 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:03:59	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:04,341 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:04	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:09,371 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:09	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:14,411 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:14	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:19,633 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:19	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:24,664 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:24	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:29,699 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:29	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:34,740 [9] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:34	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:39,892 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:39	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+2015-11-06 15:04:45,096 [8] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]bool WeixinPay.CancelOrder(ref Host.CanceledPaymentInfo info), ErrMsg:{0}	时间:2015/11/6 15:04:45	代理:
+内容：Message:
+输入字符串的格式不正确。
+StackTrace:
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 Lpn.Payment.Plugins.Weixin.WeixinPay.CancelOrder(CanceledPaymentInfo& info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Payment\Plugins\Weixin\WeixinPay.cs:行号 200
+Source:
+mscorlib
+
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-06 17:30:57,911 [18] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行任务订单任务异常	时间:2015/11/6 17:30:57	代理:
+内容：Message:
+正在中止线程。
+StackTrace:
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.Run(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 47
+Source:
+mscorlib
+
+请求:
+
+
+
+[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n2015-11-06 17:34:50,917 [13] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:50] - 
+标题:[]执行任务订单任务异常	时间:2015/11/6 17:34:50	代理:
+内容：Message:
+正在中止线程。
+StackTrace:
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 Lpn.Service.Bll.Logic.Orders.Task.OrdersTaskBll.Run(Object obj) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Logic\Orders\Task\OrdersTaskBll.cs:行号 47
+Source:
+mscorlib
+
+请求:
+
+
+
+[Footer]\r\n

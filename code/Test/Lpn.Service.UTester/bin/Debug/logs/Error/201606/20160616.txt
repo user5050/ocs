@@ -1,0 +1,54 @@
+[Header]\r\n2016-06-16 14:32:24,875 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]发送消息失败，错误原因：{0}	时间:2016/6/16 14:32:24	代理:
+内容：Message:
+远程服务器返回错误: (404) 未找到。
+StackTrace:
+   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, Byte[] data)
+   在 Lpn.Service.Bll.Notification.NotificationSend.SendNotification(MessageInfo info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationSend.cs:行号 25
+Source:
+System
+
+请求:http://localhost
+
+
+
+
+
+2016-06-16 14:44:28,194 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]发送消息失败，错误原因：{0}	时间:2016/6/16 14:44:28	代理:
+内容：Message:
+远程服务器返回错误: (404) 未找到。
+StackTrace:
+   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, Byte[] data)
+   在 Lpn.Service.Bll.Notification.NotificationSend.SendNotification(MessageInfo info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationSend.cs:行号 25
+Source:
+System
+
+请求:http://localhost
+
+
+
+
+
+2016-06-16 14:44:34,471 [10] ERROR Logger [(null)] [d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Helper\Lpn.Service.Helper\Log\LogHelper.cs:65] - 
+标题:[]发送消息失败，错误原因：{0}	时间:2016/6/16 14:44:34	代理:
+内容：Message:
+远程服务器返回错误: (404) 未找到。
+StackTrace:
+   在 System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   在 System.Net.WebClient.UploadData(Uri address, String method, Byte[] data)
+   在 System.Net.WebClient.UploadData(String address, Byte[] data)
+   在 Lpn.Service.Bll.Notification.NotificationSend.SendNotification(MessageInfo info) 位置 d:\ebapark\代码\ebopark_lpnservice\trunk\source\code\Bll\Lpn.Service.Bll\Notification\NotificationSend.cs:行号 25
+Source:
+System
+
+请求:http://localhost
+
+
+
+
+
